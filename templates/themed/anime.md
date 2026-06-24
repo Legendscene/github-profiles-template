@@ -20,6 +20,19 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
   <a href="https://discord.gg/torvalds"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Kernel%20Dev-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anime-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-FF69B4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-FF69B4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-FF69B4?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 👾 About Me
@@ -82,6 +95,12 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -114,6 +133,25 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ff00ff&height=80&section=footer" width="100%" />
 </p>
 
@@ -136,6 +174,19 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
   <a href="https://reddit.com/user/yourusername"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://discord.gg/yourusername"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Dev-FF69B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anime-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-FF69B4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-FF69B4?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-FF69B4?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -200,6 +251,12 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
@@ -234,6 +291,25 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=synthwave&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ff00ff&height=80&section=footer" width="100%" />

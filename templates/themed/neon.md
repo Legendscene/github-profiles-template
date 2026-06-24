@@ -22,6 +22,19 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Neon%20Dev-00ffff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-ff00ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-00ffff?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-ff00ff?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ffff?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 💜 Neon Stack
@@ -33,6 +46,12 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <img src="https://img.shields.io/badge/TypeScript-ff00ff?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
 </p>
 
 ---
@@ -64,7 +83,24 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=violet&hide_border=true&radius=10" width="95%" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=300&lines=Stay+neon+%F0%9F%8C%99;Keep+glowing+%E2%9C%A8" alt="Typing SVG" />
@@ -114,6 +150,19 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-00ffff?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Neon%20Dev-00ffff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-ff00ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-00ffff?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-ff00ff?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ffff?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 💜 Neon Stack
@@ -125,6 +174,12 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <img src="https://img.shields.io/badge/TypeScript-ff00ff?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-00ffff?style=for-the-badge&logo=docker&logoColor=black" />
   <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
 </p>
 
 ---
@@ -156,7 +211,24 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=violet&hide_border=true&radius=10" width="95%" />
 </p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=300&lines=Stay+neon+%F0%9F%8C%99;Keep+glowing+%E2%9C%A8" alt="Typing SVG" />

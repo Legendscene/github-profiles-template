@@ -32,6 +32,19 @@ Creator of Linux & Git</pre>
   <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Kernel%20Dev-00ff00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-C%2B%2B20-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-00ff00?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-00ff00?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ff00?style=flat-square&logo=github" />
+</p>
+
 <pre>
 $ cat about.md
 
@@ -43,6 +56,12 @@ Tools:      Neovim, tmux, gcc, make
 Interests:  OS dev, kernel hacking, version control
 Website:    https://torvalds-family.com
 </pre>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a" width="48%" />
@@ -95,6 +114,25 @@ $ fortune
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=80&section=footer" width="100%" />
 </p>
 
@@ -131,6 +169,19 @@ your-tagline</pre>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Dev-00ff00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-C%2B%2B20-00599C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Shell-Bash-4EAA25?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-00ff00?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-00ff00?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ff00?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ```bash
@@ -144,6 +195,12 @@ Tools:      Neovim, tmux, zsh, git
 Interests:  OS dev, CLI tools, automation
 Website:    https://yourwebsite.com
 ```
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
 
 ---
 
@@ -206,6 +263,25 @@ $ fortune
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=80&section=footer" width="100%" />

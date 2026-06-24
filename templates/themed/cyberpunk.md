@@ -27,6 +27,19 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GITHUB-ffeb3b?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyberpunk-ffeb3b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Hacking-ff0055?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-ffeb3b?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-ff0055?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-ffeb3b?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔌 Cyberdeck Specs
@@ -55,6 +68,12 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Neural Stats
@@ -67,6 +86,25 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=redical&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 
@@ -136,6 +174,19 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GITHUB-ffeb3b?style=for-the-badge&logo=github&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cyberpunk-ffeb3b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Hacking-ff0055?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-ffeb3b?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-ff0055?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-ffeb3b?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔌 Cyberdeck Specs
@@ -164,6 +215,12 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Neural Stats
@@ -176,6 +233,25 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 

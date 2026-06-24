@@ -23,6 +23,19 @@ Warm browns, cozy coffee shop vibes, and caffeine-powered code sessions. For dev
   <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Coffee-D4A574?style=flat-square" />
+  <img src="https://img.shields.io/badge/Level-Caffeinated-6f4e37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Coffee-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-D4A574?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-6f4e37?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-D4A574?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 📋 Daily Grind
@@ -50,6 +63,18 @@ current_project: "Linux Kernel 6.x"
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
+</p>
+
+<p align="center">
+  <sup><strong>⚡ Core Brew</strong></sup><br/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white" />
 </p>
 
 ---
@@ -121,6 +146,18 @@ current_project: "Linux Kernel 6.x"
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=80&section=footer" width="100%" />
 </p>
 
@@ -146,6 +183,19 @@ current_project: "Linux Kernel 6.x"
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Coffee-D4A574?style=flat-square" />
+  <img src="https://img.shields.io/badge/Level-Caffeinated-6f4e37?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Coffee-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-D4A574?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-6f4e37?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-D4A574?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -175,6 +225,20 @@ current_project: "your-project"
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
+</p>
+
+<p align="center">
+  <sup><strong>⚡ Core Brew</strong></sup><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
@@ -244,6 +308,18 @@ current_project: "your-project"
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=80&section=footer" width="100%" />

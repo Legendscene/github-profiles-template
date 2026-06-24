@@ -1,4 +1,4 @@
-# Cybersecurity
+﻿# Cybersecurity
 
 Security professional — CTF, pentesting, reverse engineering, and defense.
 
@@ -40,6 +40,40 @@ Security professional — CTF, pentesting, reverse engineering, and defense.
 | PicoCTF | Top 1% | 2024 |
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=chartreuse-dark&hide_border=true&background=0a0000" width="48%" />
 </p>
@@ -75,7 +109,19 @@ $ cat /etc/focus
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
 </p>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <picture>
@@ -94,6 +140,24 @@ $ cat /etc/focus
 <!-- BLOG-POST-LIST:END -->
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=%23+Stay+secure&fontSize=18&fontColor=00FF41" />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -146,6 +210,40 @@ $ cat /etc/focus
 ### 📊 Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0000" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0a0000" width="48%" />
 </p>
@@ -156,7 +254,19 @@ $ cat /etc/focus
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <picture>
@@ -213,6 +323,24 @@ $ cat /etc/focus
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Access+Log&color=00ff00&style=flat" />
   </p>
 </div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=%23+Stay+secure&fontSize=18&fontColor=00FF41" />
 ```

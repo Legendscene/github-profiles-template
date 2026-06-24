@@ -30,6 +30,19 @@ Systems programming, embedded, compilers — C, C++, Rust, and assembly. Feature
   <a href="https://crates.io/users/torvalds"><img src="https://img.shields.io/badge/crates.io-000000?style=flat-square&logo=rust" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20Dev-ff4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-01%2F01%2F1991-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-ff4500?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔧 Toolchain
@@ -41,6 +54,12 @@ Systems programming, embedded, compilers — C, C++, Rust, and assembly. Feature
   <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
 </p>
 
 ---
@@ -76,6 +95,12 @@ Systems programming, embedded, compilers — C, C++, Rust, and assembly. Feature
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 ---
 
 ### 🏗️ Projects
@@ -108,6 +133,17 @@ Rust       ████████████████████   11ms  
 - [On kernel development workflow](https://lwn.net)
 - [The future of open source](https://opensource.org)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
 
 <br/>
 
@@ -152,6 +188,19 @@ Rust       ████████████████████   11ms  
   <a href="https://crates.io/users/yourusername"><img src="https://img.shields.io/badge/crates.io-000000?style=flat-square&logo=rust" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Systems%20Dev-ff4500?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-ff4500?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔧 Toolchain
@@ -163,6 +212,12 @@ Rust       ████████████████████   11ms  
   <img src="https://img.shields.io/badge/Make-427819?style=for-the-badge&logo=make&logoColor=white" />
   <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
 </p>
 
 ---
@@ -198,6 +253,12 @@ Rust       ████████████████████   11ms  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 ---
 
 ### 🏗️ Projects
@@ -230,6 +291,17 @@ Rust       ████████████████████   11ms  
 - [Post title 2](https://yourblog.com/post2)
 - [Post title 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
 
 <br/>
 

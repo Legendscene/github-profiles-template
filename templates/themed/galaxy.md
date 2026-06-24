@@ -23,6 +23,19 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <a href="https://torvalds-family.com"><img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=starship&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cosmic-BD93F9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Quantum-6a0dad?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Space-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-BD93F9?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-6a0dad?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-BD93F9?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🪐 About Me
@@ -53,6 +66,12 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
 </p>
 
 ---
@@ -121,6 +140,25 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=80&section=footer" width="100%" />
 </p>
 
@@ -146,6 +184,19 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-6a0dad?style=for-the-badge&logo=starship&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cosmic-BD93F9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Quantum-6a0dad?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Space-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-BD93F9?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-6a0dad?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-BD93F9?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -178,6 +229,12 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
 </p>
 
 ---
@@ -244,6 +301,25 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=80&section=footer" width="100%" />

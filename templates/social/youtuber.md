@@ -1,4 +1,4 @@
-# YouTuber / Content Creator
+﻿# YouTuber / Content Creator
 
 Video creator — subscriber count, latest videos, channel analytics, and gear setup.
 
@@ -36,12 +36,52 @@ Video creator — subscriber count, latest videos, channel analytics, and gear s
 
 ### 📊 Channel Growth
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=default&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=default&hide_border=true" width="48%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=default&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -80,6 +120,24 @@ Video creator — subscriber count, latest videos, channel analytics, and gear s
 <a href="https://patreon.com/torvalds"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" /></a>
 
 📺 New video every Wednesday!
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -134,6 +192,40 @@ Video creator — subscriber count, latest videos, channel analytics, and gear s
 ### 📊 Channel Growth
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default&hide_border=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" width="48%" />
 </p>
@@ -144,7 +236,19 @@ Video creator — subscriber count, latest videos, channel analytics, and gear s
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <picture>
@@ -191,6 +295,24 @@ Video creator — subscriber count, latest videos, channel analytics, and gear s
 <div align="center">
   <sub>📺 New video every [day]!</sub>
 </div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FF0000&height=100&section=footer&text=%F0%9F%96%A5%EF%B8%8F+Subscribe+for+more&fontSize=18&fontColor=fff" />
 ```

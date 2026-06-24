@@ -29,6 +29,19 @@ Green phosphor glow, digital rain aesthetic, and code that flows like the Matrix
   <img src="https://img.shields.io/badge/Follow_the-white_rabbit-00ff41?style=for-the-badge&logo=matrix&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Matrix-00ff41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-The%20Truth-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pill-Red-ff0055?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-00ff41?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-00ff41?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ff41?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔋 The Construct
@@ -51,6 +64,12 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
 "Unfortunately, no one can be told what the Matrix is. You have to see it for yourself."
 ```
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Red Pill / Blue Pill
@@ -71,6 +90,25 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=chartreuse-dark&hide_border=true&bg_color=000000&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 
@@ -141,6 +179,19 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
   <img src="https://img.shields.io/badge/Follow_the-white_rabbit-00ff41?style=for-the-badge&logo=matrix&logoColor=black" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Matrix-00ff41?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-The%20Truth-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pill-Red-ff0055?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-00ff41?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-00ff41?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-00ff41?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🔋 The Construct
@@ -163,6 +214,12 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
 "your-favorite-matrix-quote"
 ```
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### 📊 Red Pill / Blue Pill
@@ -183,6 +240,25 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&bg_color=000000&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 ---
 

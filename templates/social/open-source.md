@@ -1,4 +1,4 @@
-# Open Source Hero
+﻿# Open Source Hero
 
 Open source contributor — contribution graphs, organizations, and community work.
 
@@ -33,10 +33,50 @@ Open source contributor — contribution graphs, organizations, and community wo
 
 ### 📊 OSS Contributions
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=github_dark&hide_border=true" width="48%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-compact&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 ---
 
@@ -63,6 +103,24 @@ Open source contributor — contribution graphs, organizations, and community wo
 💖 Open source is powered by community
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=2ea44f&style=flat" />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -104,6 +162,40 @@ Open source contributor — contribution graphs, organizations, and community wo
 ### 📊 OSS Contributions
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=github_dark&hide_border=true" width="48%" />
 </p>
@@ -114,7 +206,19 @@ Open source contributor — contribution graphs, organizations, and community wo
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 ---
 
@@ -154,6 +258,24 @@ Open source contributor — contribution graphs, organizations, and community wo
   <p>💖 Open source is powered by community</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=2ea44f&style=flat" />
 </div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=2ea44f&height=100&section=footer&text=%F0%9F%8C%8D+Open+source+forever&fontSize=18&fontColor=fff" />
 ```

@@ -28,11 +28,36 @@ Ultra-compact GitHub profile — fits everything on one screen. No fluff, just f
   </a>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Kernel%20Dev-41B883?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-01%2F01%2F1991-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-41B883?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&line_height=21" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=vue&hide_border=true&langs_count=6&line_height=21" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <p align="center">
@@ -78,6 +103,19 @@ Ultra-compact GitHub profile — fits everything on one screen. No fluff, just f
 
 <br/>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=brightgreen&style=flat" />
   &nbsp;
@@ -117,11 +155,36 @@ Ultra-compact GitHub profile — fits everything on one screen. No fluff, just f
   </a>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-41B883?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-41B883?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=vue&hide_border=true&count_private=true&include_all_commits=true&line_height=21" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=vue&hide_border=true&langs_count=6&line_height=21" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <p align="center">
@@ -164,6 +227,19 @@ Ultra-compact GitHub profile — fits everything on one screen. No fluff, just f
 - [Post title 2](https://yourblog.com/post2)
 - [Post title 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
 
 <br/>
 

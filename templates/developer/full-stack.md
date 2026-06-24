@@ -21,6 +21,19 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
   </p>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Linux%20Kernel-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-01%2F01%2F1991-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🧰 Tech Stack
@@ -61,6 +74,12 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
   </p>
 </details>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -73,6 +92,12 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=tokyo-night&hide_border=true&radius=10" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <div align="center">
@@ -137,6 +162,19 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
 <br/>
 
 <div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=6C63FF&style=flat" />
 </div>
 
@@ -167,6 +205,19 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
     <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
 
 ---
 
@@ -208,6 +259,12 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
   </p>
 </details>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### 📊 GitHub Stats
@@ -220,6 +277,12 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&radius=10" width="96%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <div align="center">
@@ -280,6 +343,19 @@ The ultimate full-stack dev profile — frontend, backend, database, and cloud a
 - [Post title 2](https://yourblog.com/post2)
 - [Post title 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
 
 <br/>
 

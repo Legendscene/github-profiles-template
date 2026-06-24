@@ -31,6 +31,19 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Kernel%20Dev-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-01%2F01%2F1991-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🌈 Tech Stack
@@ -46,6 +59,12 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   <img src="https://img.shields.io/badge/DB-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
+
 ---
 
 ### 📈 Stats
@@ -53,6 +72,12 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=gradient&hide_border=true&bg_color=00000000" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=gradient&hide_border=true&bg_color=00000000" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <p align="center">
@@ -84,6 +109,19 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=6C63FF&style=flat" />
@@ -125,6 +163,19 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Dev-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🌈 Tech Stack
@@ -140,6 +191,12 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   <img src="https://img.shields.io/badge/DB-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
+
 ---
 
 ### 📈 Stats
@@ -147,6 +204,12 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gradient&hide_border=true&bg_color=00000000" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=gradient&hide_border=true&bg_color=00000000" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
 
 <p align="center">
@@ -178,6 +241,19 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Visitors&color=6C63FF&style=flat" />

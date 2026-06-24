@@ -35,6 +35,19 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-b967ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Aesthetic-ff71ce?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-Passion-01cdfe?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-b967ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1991-ff71ce?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-01cdfe?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-b967ff?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 💾 Ａｅｓｔｈｅｔｉｃ Ｓｔａｃｋ
@@ -45,6 +58,12 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   <img src="https://img.shields.io/badge/Ｒｅａｃｔ-b967ff?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Ｎｏｄｅ-ff71ce?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Ｄｏｃｋｅｒ-01cdfe?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
 </p>
 
 ---
@@ -107,6 +126,25 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff71ce,100:b967ff&height=80&section=footer" width="100%" />
 </p>
 
@@ -146,6 +184,19 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-b967ff?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Vibe-Aesthetic-ff71ce?style=flat-square" />
+  <img src="https://img.shields.io/badge/Code-Passion-01cdfe?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-b967ff?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-ff71ce?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-01cdfe?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-b967ff?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 💾 Ａｅｓｔｈｅｔｉｃ Ｓｔａｃｋ
@@ -156,6 +207,12 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   <img src="https://img.shields.io/badge/Ｒｅａｃｔ-b967ff?style=for-the-badge&logo=react&logoColor=white" />
   <img src="https://img.shields.io/badge/Ｎｏｄｅ-ff71ce?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Ｄｏｃｋｅｒ-01cdfe?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
 </p>
 
 ---
@@ -216,6 +273,25 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff71ce,100:b967ff&height=80&section=footer" width="100%" />

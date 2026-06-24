@@ -1,4 +1,4 @@
-# JavaScript God
+﻿# JavaScript God
 
 JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 
@@ -47,6 +47,40 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 
 ### 📊 Stats
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=highcontrast&hide_border=true" width="48%" />
 
@@ -55,6 +89,12 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=highcontrast&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
@@ -77,6 +117,24 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=F7DF1E&style=flat" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&height=100&section=footer&text=%F0%9F%94%A5+JS+is+life&fontSize=18&fontColor=000" />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 </div>
 
@@ -129,6 +187,40 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 ### 📊 Stats
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=highcontrast&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=highcontrast&hide_border=true" width="48%" />
 </p>
@@ -143,7 +235,19 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=highcontrast&hide_border=true&radius=10" width="95%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
 </p>
+
+</p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <picture>
@@ -167,6 +271,24 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
   <p>⚡ JavaScript: the language that powers the web</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=F7DF1E&style=flat" />
 </div>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&height=100&section=footer&text=%F0%9F%94%A5+JS+is+life&fontSize=18&fontColor=000" />
 ```

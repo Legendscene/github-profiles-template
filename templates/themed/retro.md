@@ -28,6 +28,19 @@ CRT scanlines, VHS vibes, Game Boy aesthetics, and floppy disk energy. Perfect f
   <img src="https://img.shields.io/badge/Floppy_Disk-000080?style=for-the-badge&logo=floppy&logoColor=white" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Retro%20Dev-EB9E4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Retro-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-1995-EB9E4A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-EB9E4A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-EB9E4A?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 📼 Now Playing
@@ -63,6 +76,12 @@ TypeScript│ 5.x     │ Next.js
 Rust      │ 2024    │ Actix      
 Go        │ 1.22    │ Gin        
 </pre>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,rust,python,bash,git,linux,raspberrypi&perline=8" />
+  </a>
+</p>
 
 ---
 
@@ -115,6 +134,25 @@ Go        │ 1.22    │ Gin
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b4513,100:2f1b0e&height=80&section=footer" width="100%" />
 </p>
 
@@ -149,6 +187,19 @@ Go        │ 1.22    │ Gin
   <img src="https://img.shields.io/badge/NES-8B0000?style=for-the-badge&logo=nintendo&logoColor=white" />
   <img src="https://img.shields.io/badge/VHS-000000?style=for-the-badge&logo=videotext&logoColor=white" />
   <img src="https://img.shields.io/badge/Floppy_Disk-000080?style=for-the-badge&logo=floppy&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Retro%20Dev-EB9E4A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Retro-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-EB9E4A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-EB9E4A?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-EB9E4A?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -186,6 +237,12 @@ TypeScript│ 5.x     │ Next.js
 Rust      │ 2024    │ Actix      
 Go        │ 1.22    │ Gin        
 </pre>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+  </a>
+</p>
 
 ---
 
@@ -236,6 +293,25 @@ Go        │ 1.22    │ Gin
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=gruvbox&hide_border=true&radius=10" width="95%" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b4513,100:2f1b0e&height=80&section=footer" width="100%" />

@@ -23,6 +23,19 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
   <a href="https://torvalds.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-F75C7E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Three.js-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-UI%2FUX-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-01%2F01%2F1991-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-5-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-F75C7E?style=flat-square&logo=github" />
+</p>
+
 ---
 
 ### 🛠️ Frontend Arsenal
@@ -63,6 +76,12 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
 </div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
 
 ---
 
@@ -105,6 +124,17 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
 - [The future of open source](https://opensource.org)
 <!-- BLOG-POST-LIST:END -->
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
+
 <br/>
 
 <div align="center">
@@ -139,6 +169,19 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
   <a href="https://codepen.io/yourusername"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
   <a href="https://dribbble.com/yourusername"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20Dev-F75C7E?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Three.js-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-UI%2FUX-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-blue?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-F75C7E?style=flat-square&logo=github" />
 </p>
 
 ---
@@ -182,6 +225,12 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 ---
 
 ### 🎯 Skills
@@ -222,6 +271,17 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
 - [Post title 2](https://yourblog.com/post2)
 - [Post title 3](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</div>
 
 <br/>
 

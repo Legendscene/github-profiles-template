@@ -1,4 +1,4 @@
-# Grid Style
+﻿# Grid Style
 
 Tiled card layout — everything in organized boxes for a clean portfolio look.
 
@@ -14,6 +14,40 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Linus;Creator+of+Linux+%26+Git;Open+source+forever" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
@@ -48,6 +82,12 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
     <td width="100%" colspan="2" valign="top">
       <h3>📈 Activity</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=8" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
     </td>
   </tr>
 </table>
@@ -80,6 +120,12 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
     <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/torvalds?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/torvalds/torvalds?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=0e75b6&style=flat" />
@@ -96,6 +142,24 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=100&section=footer&text=%F0%9F%93%8A+Stay+organized&fontSize=18&fontColor=fff" />
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/torvalds"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/torvalds"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
 </div>
 
 ---
@@ -109,6 +173,40 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+%3Cyour-name%3E;Let%27s+build+together;Open+source+forever" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Joined-DD%2FMM%2FYYYY-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Repos-XX-181717?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Commits-2026-6C63FF?style=flat-square&logo=github" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,docker,aws,git,linux,vscode&perline=10" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6C63FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Learning-Rust-000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ask%20Me-Anything-1DA1F2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20to-Work-brightgreen?style=flat-square" />
+</p>
 
 <p align="center">
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
@@ -143,6 +241,12 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
     <td width="100%" colspan="2" valign="top">
       <h3>📈 Activity</h3>
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=8" width="100%" />
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
     </td>
   </tr>
 </table>
@@ -175,6 +279,12 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
     <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername?label=Total%20Stars&style=for-the-badge&color=gold" />
+  <img src="https://img.shields.io/github/last-commit/yourusername/yourusername?label=Last%20Updated&style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=green" />
+</p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=0e75b6&style=flat" />
@@ -188,6 +298,24 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 - [CSS Grid Best Practices](https://yourblog.com/post2)
 - [Responsive Grid Systems](https://yourblog.com/post3)
 <!-- BLOG-POST-LIST:END -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</div>
+
+<p align="center">
+  <a href="https://buymeacoffee.com/yourusername"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
+  <a href="https://ko-fi.com/yourusername"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=100&section=footer&text=%F0%9F%93%8A+Stay+organized&fontSize=18&fontColor=fff" />
 ```
