@@ -106,21 +106,28 @@ Just **copy-paste** → replace `yourusername` → done! No build tools, no CSS.
 
 ---
 
-## 🛠️ Features Included
+## 🛠️ What's Inside Every Template
 
-| Feature | How |
-|---------|-----|
-| 📊 GitHub Stats | `github-readme-stats` |
-| 🔥 Streak Stats | `github-readme-streak-stats` |
-| 🏆 Trophies | `github-profile-trophy` |
-| 📈 Activity Graph | `github-readme-activity-graph` |
-| 🎵 Spotify Now Playing | `spotify-github-profile` |
-| 🧑‍💻 Top Languages | `github-readme-stats` |
-| 👥 Visitor Counter | `visitor-badge` |
-| 📝 Latest Blog Posts | `blog-post-workflow` |
-| 🐍 Snake Animation | `github-snake` |
-| ✨ Typing Effect | `readme-typing-svg` |
-| 🌊 Wave Header | `capsule-render` |
+| # | Feature | What It Does |
+|---|---------|-------------|
+| 1 | 🌊 **Capsule Header/Footer** | Gradient wave animation top & bottom |
+| 2 | ⌨️ **Typing SVG** | Animated text that types itself |
+| 3 | 🧑‍💻 **About Me** | Expandable section with your details |
+| 4 | 🛠️ **Skill Icons** | Visual tech stack icons (skillicons.dev) |
+| 5 | 📌 **Status Bar** | Current focus, learning, collab status |
+| 6 | 🏅 **Profile Details** | GitHub joined date, repos, commits |
+| 7 | 📊 **GitHub Stats** | Commits, PRs, reviews, contributions |
+| 8 | 🔥 **Streak Stats** | Daily contribution streak |
+| 9 | 💻 **Top Languages** | Most-used languages graph |
+| 10 | 🏆 **Trophies** | Achievement showcase |
+| 11 | 📈 **Activity Graph** | Contribution timeline |
+| 12 | 🐍 **Snake Animation** | Contribution grid snake (dark/light) |
+| 13 | 📝 **Latest Blog Posts** | Auto-update ready (GitHub Action) |
+| 14 | 💬 **Inspirational Quote** | Random dev quote card |
+| 15 | 👥 **Visitor Counter** | Profile view tracker |
+| 16 | ⭐ **Extra Stats** | Stars, followers, last updated |
+| 17 | 💖 **Support Badges** | Buy Me A Coffee / Ko-fi |
+| 18 | 🔗 **Social Links** | Twitter, LinkedIn, YouTube, etc. |
 
 ---
 
