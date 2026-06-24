@@ -11,6 +11,10 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
 ### ✍️ torvalds
 **Technical Writer • Blogger • Storyteller**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00AB6C&center=true&vCenter=true&width=500&lines=%E2%9C%8D%EF%B8%8F+Tech+Writer;Writing+in+public;Words+that+change+minds" alt="Typing SVG" />
+</h1>
+
 <a href="https://medium.com/@torvalds"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 <a href="https://dev.to/torvalds"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 <a href="https://hashnode.com/@torvalds"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
@@ -56,6 +60,24 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=vue&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=vue&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=vue&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-light&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Writing Technical Content](https://yourblog.com/post1)
+- [Blogging Best Practices](https://yourblog.com/post2)
+- [Building a Writing Habit](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### ✍️ Latest from Dev.to
@@ -68,6 +90,8 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
 
 📖 Write once, publish everywhere
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00AB6C&height=100&section=footer&text=%E2%9C%8D%EF%B8%8F+Write+on.&fontSize=18&fontColor=fff" />
+
 </div>
 
 ---
@@ -77,6 +101,10 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
 ```markdown
 <h1 align="center">✍️ <your-name></h1>
 <h3 align="center">Technical Writer • Blogger • Storyteller</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00AB6C&center=true&vCenter=true&width=500&lines=%E2%9C%8D%EF%B8%8F+Tech+Writer;Writing+in+public;Words+that+change+minds" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://medium.com/@yourusername"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
@@ -132,6 +160,32 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=vue&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=vue&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-light&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Writing Technical Content](https://yourblog.com/post1)
+- [Blogging Best Practices](https://yourblog.com/post2)
+- [Building a Writing Habit](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### ✍️ Latest from Dev.to
@@ -149,6 +203,8 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing s
 <div align="center">
   <sub>📖 Write once, publish everywhere</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00AB6C&height=100&section=footer&text=%E2%9C%8D%EF%B8%8F+Write+on.&fontSize=18&fontColor=fff" />
 ```
 
 ---

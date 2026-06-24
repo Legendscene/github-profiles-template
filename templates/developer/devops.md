@@ -10,6 +10,10 @@ Cloud, containers, CI/CD, and infrastructure-as-code — the ops side of dev. Fe
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:004d40,100:00bfa5&height=150&section=header&text=☸%20DevOps%20Engineer&fontSize=40&fontColor=fff&animation=scaleIn" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00bfa5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Linus+Torvalds;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">Linus Torvalds</h1>
 <h3 align="center">Automating everything 🤖</h3>
 
@@ -81,6 +85,20 @@ Go         █░░░░░░░░░░░░░░░░░░░░░   
   <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🏗️ Infrastructure
@@ -100,9 +118,23 @@ graph LR
 
 ---
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Views&color=00bfa5&style=flat-square" />
   <p>⚡ "It works on my machine... and in production too"</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfa5,100:004d40&height=100&section=footer" />
 </div>
 
 > ⚡ **This is what your profile will look like** — just replace with your info below.
@@ -115,6 +147,10 @@ graph LR
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:004d40,100:00bfa5&height=150&section=header&text=☸%20DevOps%20Engineer&fontSize=40&fontColor=fff&animation=scaleIn" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00bfa5&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;Automating+everything+%F0%9F%A4%96" alt="Typing SVG" />
+</h1>
 
 <h1 align="center"><your-name></h1>
 <h3 align="center">Automating everything 🤖</h3>
@@ -187,6 +223,20 @@ Go         █░░░░░░░░░░░░░░░░░░░░░   
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&column=7" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🏗️ Infrastructure
@@ -206,9 +256,23 @@ graph LR
 
 ---
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Views&color=00bfa5&style=flat-square" />
   <p>⚡ "It works on my machine... and in production too"</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfa5,100:004d40&height=100&section=footer" />
 </div>
 ```
 

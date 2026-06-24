@@ -13,6 +13,10 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 ### 🌌 Linus Torvalds
 #### Developer under the northern lights ✨
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8C+Northern+Lights+Dev;Chasing+auroras+%26+code;Cyan+to+purple+vibes" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -42,6 +46,18 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=nightowl&hide_border=true&radius=10" width="95%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=nightowl&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ```
    /\         🌍 Location: Portland, OR
   /  \        💼 Role: Creator of Linux
@@ -51,6 +67,14 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff88,100:001a33&height=100&section=footer&text=%E2%9C%A8%20Keep%20chasing%20the%20lights%20%E2%9C%A8&fontSize=16" />
 <p><img src="https://komarev.com/ghpvc/?username=torvalds&label=Aurora+Visitors&color=00ff88&style=flat-square" /></p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Aurora Gradient CSS Tricks](https://yourblog.com/post1)
+- [Night Owl Theme Deep Dive](https://yourblog.com/post2)
+- [Northern Lights Photography](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
@@ -65,6 +89,10 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 
 <h1 align="center">🌌 <your-name></h1>
 <h3 align="center">Developer under the northern lights ✨</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8C+Northern+Lights+Dev;Chasing+auroras+%26+code;Cyan+to+purple+vibes" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -98,6 +126,28 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=nightowl&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nightowl&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Aurora Gradient CSS Tricks](https://yourblog.com/post1)
+- [Night Owl Theme Deep Dive](https://yourblog.com/post2)
+- [Northern Lights Photography](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

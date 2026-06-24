@@ -6,6 +6,9 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
 
 ## 👀 Live Preview
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Linus+Torvalds;%E3%80%8C+%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D+%E3%80%8D" alt="Typing SVG" />
+  </h1>
 <h1 align="center">⚡ Linus Torvalds</h1>
 <h3 align="center">「 コードを書くのが大好き 」</h3>
 <p align="center"><i>"I love writing code" — in Japanese</i></p>
@@ -85,6 +88,35 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=★%20Visitors&color=ff69b4&style=flat" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ff00ff&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -92,6 +124,9 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
 ## 📋 Ready-to-Use Code
 
 ```markdown
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF69B4&center=true&vCenter=true&width=500&lines=%E2%9A%A1+your-name;%E3%80%8C+%E3%82%B3%E3%83%BC%E3%83%89%E3%82%92%E6%9B%B8%E3%81%8F%E3%81%AE%E3%81%8C%E5%A4%A7%E5%A5%BD%E3%81%8D+%E3%80%8D" alt="Typing SVG" />
+  </h1>
 <h1 align="center">⚡ your-name</h1>
 <h3 align="center">「 コードを書くのが大好き 」</h3>
 <p align="center"><i>"I love writing code" — in Japanese</i></p>
@@ -174,6 +209,35 @@ For the weeb developers. Japanese text, anime quotes, synthwave colors, and waif
 <div align="center">
   <sub>🌸 Made with ❤️ and anime</sub>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff69b4,100:ff00ff&height=80&section=footer" width="100%" />
+</p>
 ```
 
 ---

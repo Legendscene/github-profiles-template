@@ -52,11 +52,31 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=highcontrast&hide_border=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=highcontrast&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [React 19 Deep Dive](https://yourblog.com/post1)
+- [TypeScript Tips & Tricks](https://yourblog.com/post2)
+- [Building npm Packages](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ⚡ JavaScript: the language that powers the web
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=F7DF1E&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&height=100&section=footer&text=%F0%9F%94%A5+JS+is+life&fontSize=18&fontColor=000" />
 
 </div>
 
@@ -117,12 +137,38 @@ JS/TS developer — npm packages, React, Node, and the JS ecosystem.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=highcontrast&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=highcontrast&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [React 19 Deep Dive](https://yourblog.com/post1)
+- [TypeScript Tips & Tricks](https://yourblog.com/post2)
+- [Building npm Packages](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
   <p>⚡ JavaScript: the language that powers the web</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=F7DF1E&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=F7DF1E&height=100&section=footer&text=%F0%9F%94%A5+JS+is+life&fontSize=18&fontColor=000" />
 ```
 
 ---

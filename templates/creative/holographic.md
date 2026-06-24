@@ -41,6 +41,22 @@ Rainbow shimmer, prism effects, and iridescent gradients — the holographic aes
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=synthwave&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <a href="https://github.com/torvalds/linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=synthwave&hide_border=true" /></a>
   <a href="https://github.com/torvalds/subsurface"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=subsurface&theme=synthwave&hide_border=true" /></a>
 </p>
@@ -48,6 +64,14 @@ Rainbow shimmer, prism effects, and iridescent gradients — the holographic aes
 <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=120&section=footer&text=%E2%9C%A8%20Stay%20iridescent%20%E2%9C%A8&fontSize=20" />
 
 <p><img src="https://komarev.com/ghpvc/?username=torvalds&label=Wavelength+Visitors&color=ff6ec7&style=flat-square" /></p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Prism Effects in CSS](https://yourblog.com/post1)
+- [Rainbow Gradient Design](https://yourblog.com/post2)
+- [Iridescent UI Patterns](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 </div>
 
@@ -97,6 +121,32 @@ Rainbow shimmer, prism effects, and iridescent gradients — the holographic aes
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=synthwave&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Prism Effects in CSS](https://yourblog.com/post1)
+- [Rainbow Gradient Design](https://yourblog.com/post2)
+- [Iridescent UI Patterns](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

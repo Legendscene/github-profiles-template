@@ -11,6 +11,10 @@ Community organizer — Discord, meetups, events, and developer communities.
 ### 👥 torvalds
 **Community Builder • Event Organizer • Mentor**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=5865F2&center=true&vCenter=true&width=500&lines=%F0%9F%91%A5+Community+Builder;Bringing+devs+together;Events+%E2%80%A2+Meetups+%E2%80%A2+Growth" alt="Typing SVG" />
+</h1>
+
 <a href="https://discord.gg/linux"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -44,6 +48,24 @@ Community organizer — Discord, meetups, events, and developer communities.
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=blueberry&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=blueberry&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Developer Communities](https://yourblog.com/post1)
+- [Event Organization Guide](https://yourblog.com/post2)
+- [Community Growth Strategies](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <a href="https://discord.gg/linux"><img src="https://img.shields.io/badge/JOIN_OUR_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -51,6 +73,8 @@ Community organizer — Discord, meetups, events, and developer communities.
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Community+Size&color=5865F2&style=flat" />
 
 💬 Together we grow
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=5865F2&height=100&section=footer&text=%F0%9F%91%A5+Together+we+grow&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -61,6 +85,10 @@ Community organizer — Discord, meetups, events, and developer communities.
 ```markdown
 <h1 align="center">👥 <your-name></h1>
 <h3 align="center">Community Builder • Event Organizer • Mentor</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=5865F2&center=true&vCenter=true&width=500&lines=%F0%9F%91%A5+Community+Builder;Bringing+devs+together;Events+%E2%80%A2+Meetups+%E2%80%A2+Growth" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://discord.gg/yourcommunity"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
@@ -99,6 +127,30 @@ Community organizer — Discord, meetups, events, and developer communities.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=blueberry&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Building Developer Communities](https://yourblog.com/post1)
+- [Event Organization Guide](https://yourblog.com/post2)
+- [Community Growth Strategies](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
@@ -112,6 +164,8 @@ Community organizer — Discord, meetups, events, and developer communities.
 <div align="center">
   <sub>💬 Together we grow</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=5865F2&height=100&section=footer&text=%F0%9F%91%A5+Together+we+grow&fontSize=18&fontColor=fff" />
 ```
 
 ---

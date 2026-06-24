@@ -10,6 +10,10 @@ Systems programming, embedded, compilers — C, C++, Rust, and assembly. Feature
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff4500,100:000000&height=150&section=header&text=⚡%20Systems%20Programmer&fontSize=35&fontColor=fff&rotation=0" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff4500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Linus+Torvalds;Systems+%E2%80%A2+Embedded+%E2%80%A2+Performance" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">Linus Torvalds</h1>
 <h3 align="center">Systems • Embedded • Performance</h3>
 
@@ -52,6 +56,26 @@ Systems programming, embedded, compilers — C, C++, Rust, and assembly. Feature
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🏗️ Projects
@@ -77,6 +101,22 @@ Rust       ████████████████████   11ms  
 
 ---
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=ff4500&style=flat" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:ff4500&height=100&section=footer&text=%23%20no%20runtime%20%7C%20no%20gc%20%7C%20no%20fear&fontSize=16&fontColor=ff4500&rotation=180" />
 </div>
@@ -91,6 +131,10 @@ Rust       ████████████████████   11ms  
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:ff4500,100:000000&height=150&section=header&text=⚡%20Systems%20Programmer&fontSize=35&fontColor=fff&rotation=0" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=ff4500&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;Systems+%E2%80%A2+Embedded+%E2%80%A2+Performance" alt="Typing SVG" />
+</h1>
 
 <h1 align="center"><your-name></h1>
 <h3 align="center">Systems • Embedded • Performance</h3>
@@ -134,6 +178,26 @@ Rust       ████████████████████   11ms  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark&hide_border=true&langs_count=8&size_weight=0.5&count_weight=0.5" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🏗️ Projects
@@ -158,6 +222,22 @@ Rust       ████████████████████   11ms  
 ```
 
 ---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Visitors&color=ff4500&style=flat" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=0:000000,100:ff4500&height=100&section=footer&text=%23%20no%20runtime%20%7C%20no%20gc%20%7C%20no%20fear&fontSize=16&fontColor=ff4500&rotation=180" />

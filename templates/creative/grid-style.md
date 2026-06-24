@@ -11,6 +11,10 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 ### Linus Torvalds
 #### Creator of Linux & Git
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Linus;Creator+of+Linux+%26+Git;Open+source+forever" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -70,9 +74,27 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 <br/>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=social" />
 </p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Grid Layout Deep Dive](https://yourblog.com/post1)
+- [CSS Grid Best Practices](https://yourblog.com/post2)
+- [Responsive Grid Systems](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=100&section=footer&text=%F0%9F%93%8A+Stay+organized&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -83,6 +105,10 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 ```markdown
 <h1 align="center"><your-name></h1>
 <h3 align="center"><your-tagline></h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=0e75b6&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+%3Cyour-name%3E;Let%27s+build+together;Open+source+forever" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
@@ -143,9 +169,27 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 <br/>
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" />
 </p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Grid Layout Deep Dive](https://yourblog.com/post1)
+- [CSS Grid Best Practices](https://yourblog.com/post2)
+- [Responsive Grid Systems](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0e75b6&height=100&section=footer&text=%F0%9F%93%8A+Stay+organized&fontSize=18&fontColor=fff" />
 ```
 
 ---

@@ -11,6 +11,10 @@ Developer advocate — talks, workshops, content, and community engagement.
 ### 📣 torvalds
 **Developer Advocate • DevRel • Community Builder**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF8800&center=true&vCenter=true&width=500&lines=%F0%9F%93%A3+Developer+Advocate;DevRel+%E2%80%A2+Community+%E2%80%A2+Content;Bridging+devs+%26+products" alt="Typing SVG" />
+</h1>
+
 <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://youtube.com/@torvalds"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
@@ -42,6 +46,24 @@ Developer advocate — talks, workshops, content, and community engagement.
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=default&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=default&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=default&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [DevRel Best Practices](https://yourblog.com/post1)
+- [Developer Experience Design](https://yourblog.com/post2)
+- [Community Building at Scale](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🛠️ Developer Tools I Advocate
@@ -58,6 +80,8 @@ Developer advocate — talks, workshops, content, and community engagement.
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Connections&color=FF8800&style=flat" />
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF8800&height=100&section=footer&text=%F0%9F%93%A3+DevRel+for+life&fontSize=18&fontColor=fff" />
+
 </div>
 
 ---
@@ -67,6 +91,10 @@ Developer advocate — talks, workshops, content, and community engagement.
 ```markdown
 <h1 align="center">📣 <your-name></h1>
 <h3 align="center">Developer Advocate • DevRel • Community Builder</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF8800&center=true&vCenter=true&width=500&lines=%F0%9F%93%A3+Developer+Advocate;DevRel+%E2%80%A2+Community+%E2%80%A2+Content;Bridging+devs+%26+products" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -103,6 +131,30 @@ Developer advocate — talks, workshops, content, and community engagement.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=default&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [DevRel Best Practices](https://yourblog.com/post1)
+- [Developer Experience Design](https://yourblog.com/post2)
+- [Community Building at Scale](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🛠️ Developer Tools I Advocate
@@ -122,6 +174,8 @@ Developer advocate — talks, workshops, content, and community engagement.
   <p>💬 Let's talk developer experience!</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Connections&color=FF8800&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF8800&height=100&section=footer&text=%F0%9F%93%A3+DevRel+for+life&fontSize=18&fontColor=fff" />
 ```
 
 ---

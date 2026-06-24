@@ -10,6 +10,10 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=%3C%2F%3E&fontSize=70&animation=blinking" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Linus+Torvalds;Creator+of+Linux+%26+Git" alt="Typing SVG" />
+</h1>
+
 <table align="center">
   <tr>
     <td align="center" width="200">
@@ -55,6 +59,20 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=onedark&no-frame=true&no-bg=true&column=7" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -66,6 +84,10 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=6C63FF&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24" />
@@ -81,6 +103,10 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=150&section=header&text=%3C%2F%3E&fontSize=70&animation=blinking" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;I+build+cool+stuff!" alt="Typing SVG" />
+</h1>
 
 <table align="center">
   <tr>
@@ -127,6 +153,20 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
   <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&no-bg=true&column=7" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -138,6 +178,10 @@ A beautiful gradient-themed GitHub profile with smooth color transitions, avatar
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Visitors&color=6C63FF&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24" />

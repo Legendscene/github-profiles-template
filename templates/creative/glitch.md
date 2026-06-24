@@ -60,6 +60,30 @@ Glitch text, corrupted visuals, and distorted effects — digital chaos aestheti
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=2000&pause=100&color=FF0055&center=true&vCenter=true&width=300&lines=ERR0R_404;SYS.TEM.MALFUNCTION;GL1TCH.3FFECT" alt="Glitch Footer" />
 </h3>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=redical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Creative Coding Techniques](https://yourblog.com/post1)
+- [Glitch Art with CSS](https://yourblog.com/post2)
+- [Digital Chaos Aesthetic](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 </div>
 
 ---
@@ -136,6 +160,30 @@ Glitch text, corrupted visuals, and distorted effects — digital chaos aestheti
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=2000&pause=100&color=FF0055&center=true&vCenter=true&width=300&lines=ERR0R_404;SYS.TEM.MALFUNCTION;GL1TCH.3FFECT" alt="Glitch Footer" />
 </h3>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Creative Coding Techniques](https://yourblog.com/post1)
+- [Glitch Art with CSS](https://yourblog.com/post2)
+- [Digital Chaos Aesthetic](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 ```
 
 ---

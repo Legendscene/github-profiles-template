@@ -48,6 +48,26 @@ Unity, Unreal, Godot — for game devs who build worlds and experiences. Feature
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=gruvbox&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🕹️ My Games
@@ -88,9 +108,23 @@ Unity, Unreal, Godot — for game devs who build worlds and experiences. Feature
   <i>"A game is a series of interesting choices."</i>
 </p>
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=ff6b35&style=flat" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:000000&height=100&section=footer" />
+</div>
 
 > ⚡ **This is what your profile will look like** — just replace with your info below.
 
@@ -141,6 +175,26 @@ Unity, Unreal, Godot — for game devs who build worlds and experiences. Feature
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🕹️ My Games
@@ -181,9 +235,23 @@ Unity, Unreal, Godot — for game devs who build worlds and experiences. Feature
   <i>"A game is a series of interesting choices."</i>
 </p>
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=ff6b35&style=flat" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b35,100:000000&height=100&section=footer" />
+</div>
 ```
 
 ---

@@ -10,6 +10,9 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0033,100:ffeb3b&height=150&section=header&text=//%20CYBERPUNK&fontSize=50&fontColor=ffeb3b" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FFEB3B&center=true&vCenter=true&width=500&lines=%2F%2F+Linus+Torvalds;%E2%9A%A1+Cyberpunk+Developer" alt="Typing SVG" />
+  </h1>
 <h1 align="center">Linus Torvalds</h1>
 <h3 align="center">⚡ Cyberpunk Developer ⚡</h3>
 
@@ -82,6 +85,29 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ffeb3b,100:1a0033&height=100&section=footer&text=%E2%96%B6%20WELCOME%20TO%20NIGHT%20CITY&fontSize=18" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Cyber+Visitors&color=ffeb3b&style=flat-square" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -93,6 +119,9 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:1a0033,100:ffeb3b&height=150&section=header&text=//%20CYBERPUNK&fontSize=50&fontColor=ffeb3b" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FFEB3B&center=true&vCenter=true&width=500&lines=%2F%2F+your-name;%E2%9A%A1+your-title" alt="Typing SVG" />
+  </h1>
 <h1 align="center">your-name</h1>
 <h3 align="center">⚡ your-title ⚡</h3>
 
@@ -163,6 +192,29 @@ Glitch text, neon yellow on dark purple, and cyberdeck UI. Inspired by Cyberpunk
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=shark&color=0:ffeb3b,100:1a0033&height=100&section=footer&text=%E2%96%B6%20WELCOME%20TO%20NIGHT%20CITY&fontSize=18" />
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Cyber+Visitors&color=ffeb3b&style=flat-square" />
 </p>
 ```
 

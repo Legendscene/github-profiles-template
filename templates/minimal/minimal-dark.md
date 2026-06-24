@@ -10,6 +10,10 @@ A sleek, dark-themed GitHub profile with stats, socials, and an animated contrib
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" />
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Linus+Torvalds;Creator+of+Linux+%26+Git" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">Hi 👋, I'm Linus Torvalds</h1>
 <h3 align="center">A passionate developer from Finland 🌍</h3>
 
@@ -55,12 +59,42 @@ A sleek, dark-themed GitHub profile with stats, socials, and an animated contrib
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=tokyo-night&hide_border=true&radius=10" width="95%" />
+</div>
+
+<br/>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=58a6ff&style=flat" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />
@@ -76,6 +110,10 @@ A sleek, dark-themed GitHub profile with stats, socials, and an animated contrib
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=200&section=header&text=Hey%20There!&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=38" />
 </div>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58a6ff&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;I+build+cool+stuff!" alt="Typing SVG" />
+</h1>
 
 <h1 align="center">Hi 👋, I'm <your-name></h1>
 <h3 align="center">A passionate developer from somewhere 🌍</h3>
@@ -122,12 +160,42 @@ A sleek, dark-themed GitHub profile with stats, socials, and an animated contrib
 <br/>
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&radius=10" width="95%" />
+</div>
+
+<br/>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Visitors&color=58a6ff&style=flat" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0d1117&height=120&section=footer" />

@@ -50,6 +50,30 @@ Machine learning, deep learning, neural networks, and AI systems.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=nightowl&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=nightowl&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=nightowl&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Transformer Architecture Explained](https://yourblog.com/post1)
+- [RLHF from Scratch](https://yourblog.com/post2)
+- [LLM Quantization Guide](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 | Model | Task | Framework |
 |-------|------|-----------|
 | Linux Code Model | Code Generation | PyTorch |
@@ -120,6 +144,32 @@ Machine learning, deep learning, neural networks, and AI systems.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=nightowl&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nightowl&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=nightowl&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Transformer Architecture Explained](https://yourblog.com/post1)
+- [RLHF from Scratch](https://yourblog.com/post2)
+- [LLM Quantization Guide](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 

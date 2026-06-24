@@ -19,6 +19,9 @@ Green phosphor glow, digital rain aesthetic, and code that flows like the Matrix
   </pre>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=%3ELinus+Torvalds;Wake+up%2C+Neo...+%F0%9F%A5%BD" alt="Typing SVG" />
+  </h1>
 <h1 align="center">Linus Torvalds</h1>
 <h3 align="center">Wake up, Neo... 🥽</h3>
 
@@ -91,6 +94,23 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
   </p>
 </div>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff41&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -111,6 +131,9 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
   </pre>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=00FF41&center=true&vCenter=true&width=500&lines=%3Eyour-name;your-subtitle+%F0%9F%A5%BD" alt="Typing SVG" />
+  </h1>
 <h1 align="center">your-name</h1>
 <h3 align="center">your-subtitle 🥽</h3>
 
@@ -182,6 +205,23 @@ Code:        100 GB       42 GB       58 GB       0.1 GB
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=System+Access&color=00ff41&style=flat-square" />
   </p>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff41&height=80&section=footer" width="100%" />
+</p>
 ```
 
 ---

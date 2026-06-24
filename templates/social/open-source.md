@@ -11,6 +11,10 @@ Open source contributor — contribution graphs, organizations, and community wo
 ### 🌍 torvalds
 **Open Source Advocate • Contributor • Maintainer**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=2ea44f&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8D+Open+Source+Advocate;Contributor+%E2%80%A2+Maintainer+%E2%80%A2+OSS;Code+in+public+since+day+one" alt="Typing SVG" />
+</h1>
+
 <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://dev.to/torvalds"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
@@ -70,6 +74,10 @@ Open source contributor — contribution graphs, organizations, and community wo
 <h1 align="center">🌍 <your-name></h1>
 <h3 align="center">Open Source Advocate • Contributor • Maintainer</h3>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=2ea44f&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8D+Open+Source+Advocate;Contributor+%E2%80%A2+Maintainer+%E2%80%A2+OSS;Code+in+public+since+day+one" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -104,6 +112,20 @@ Open source contributor — contribution graphs, organizations, and community wo
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact&hide_border=true&radius=10" width="95%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Open Source Contribution Guide](https://yourblog.com/post1)
+- [How to Maintain a Popular Repo](https://yourblog.com/post2)
+- [Building Community Through Code](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🏆 Top Contributions
@@ -132,6 +154,8 @@ Open source contributor — contribution graphs, organizations, and community wo
   <p>💖 Open source is powered by community</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=2ea44f&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2ea44f&height=100&section=footer&text=%F0%9F%8C%8D+Open+source+forever&fontSize=18&fontColor=fff" />
 ```
 
 ---

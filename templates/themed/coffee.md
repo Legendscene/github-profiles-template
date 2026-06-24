@@ -10,6 +10,9 @@ Warm browns, cozy coffee shop vibes, and caffeine-powered code sessions. For dev
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=200&section=header&text=%E2%98%95%20Coffee%20Developer%20%E2%98%95&fontSize=35&fontColor=d4a574" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=D4A574&center=true&vCenter=true&width=500&lines=%E2%98%95+Linus+Torvalds;Powered+by+coffee+%E2%98%95+and+code+%F0%9F%92%BB" alt="Typing SVG" />
+  </h1>
 <h1 align="center">☕ Linus Torvalds</h1>
 <h3 align="center">Powered by coffee ☕ and code 💻</h3>
 
@@ -92,6 +95,35 @@ current_project: "Linux Kernel 6.x"
   <sub>☕ Life happens, coffee helps</sub>
 </div>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -103,6 +135,9 @@ current_project: "Linux Kernel 6.x"
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=200&section=header&text=%E2%98%95%20Coffee%20Developer%20%E2%98%95&fontSize=35&fontColor=d4a574" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=D4A574&center=true&vCenter=true&width=500&lines=%E2%98%95+your-name;your-tagline+%E2%98%95" alt="Typing SVG" />
+  </h1>
 <h1 align="center">☕ your-name</h1>
 <h3 align="center">your-tagline ☕</h3>
 
@@ -184,7 +219,37 @@ current_project: "your-project"
 <div align="center">
   <sub>☕ Life happens, coffee helps</sub>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=monokai&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:3c1f10,100:6f4e37&height=80&section=footer" width="100%" />
+</p>
 ```
+
 
 ---
 

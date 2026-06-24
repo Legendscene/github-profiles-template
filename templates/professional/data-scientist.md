@@ -11,6 +11,10 @@ Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
 ### 📊 Linus Torvalds
 #### Data Scientist | Analytics | ML
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Data+Scientist;Turning+data+into+insights;Analytics+%E2%80%A2+ML+%E2%80%A2+Stats" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
@@ -36,6 +40,14 @@ Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=city_lights&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=city_lights&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
 | Project | Description | Tech |
 |---------|-------------|------|
 | Linux Kernel | Monolithic OS kernel | C, Assembly |
@@ -43,9 +55,31 @@ Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
 | Subsurface | Dive logging | C++, Qt |
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-light&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile+Views&color=3776AB&style=flat-square" />
   <p>📧 torvalds@kernel.org</p>
 </p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Data Science Best Practices](https://yourblog.com/post1)
+- [ML Model Deployment Guide](https://yourblog.com/post2)
+- [Statistical Analysis Deep Dive](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=100&section=footer&text=%F0%9F%93%8A+Data+drives+decisions&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -56,6 +90,10 @@ Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
 ```markdown
 <h1 align="center">📊 <your-name></h1>
 <h3 align="center">Data Scientist | Analytics | ML</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=500&lines=%F0%9F%93%8A+Data+Scientist;Turning+data+into+insights;Analytics+%E2%80%A2+ML+%E2%80%A2+Stats" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -89,6 +127,36 @@ Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=city_lights&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=city_lights&hide_border=true" width="48%" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=city_lights&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-light&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Data Science Best Practices](https://yourblog.com/post1)
+- [ML Model Deployment Guide](https://yourblog.com/post2)
+- [Statistical Analysis Deep Dive](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -138,6 +206,8 @@ print(tech_df.sort_values('Proficiency', ascending=False))
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=3776AB&style=flat-square" />
   <p>📧 <a href="mailto:your@email.com">your@email.com</a></p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=100&section=footer&text=%F0%9F%93%8A+Data+drives+decisions&fontSize=18&fontColor=fff" />
 ```
 
 ---

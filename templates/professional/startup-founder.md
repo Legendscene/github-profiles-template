@@ -11,6 +11,10 @@ Founder/CEO mode — products, investors, traction, and company metrics.
 ### 🚀 Linus Torvalds
 #### Founder & CEO @ Linux Foundation
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=ff6b35&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Founder+%2F+CEO;Building+the+future;Product-first+mindset" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -57,9 +61,35 @@ Growth:    10% YoY
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=default&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=ff6b35&style=flat" />
   <p>📧 torvalds@kernel.org</p>
 </p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [The Linux Kernel: Past, Present, Future](https://torvalds.com/post1)
+- [Why Git Succeeds](https://torvalds.com/post2)
+- [On Open Source Sustainability](https://torvalds.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ff6b35&height=100&section=footer&text=%F0%9F%9A%80+Build%2C+ship%2C+repeat&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -70,6 +100,10 @@ Growth:    10% YoY
 ```markdown
 <h1 align="center">🚀 <your-name></h1>
 <h3 align="center">Founder & CEO @ <your-startup></h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=ff6b35&center=true&vCenter=true&width=500&lines=%F0%9F%9A%80+Founder+%2F+CEO;Building+the+future;Product-first+mindset" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -150,12 +184,40 @@ Growth:    <x>% MoM
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=default&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post Title 1](https://yourblog.com/post1)
+- [Post Title 2](https://yourblog.com/post2)
+- [Post Title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=ff6b35&style=flat" />
   <p>📧 <a href="mailto:you@yourstartup.com">you@yourstartup.com</a></p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=ff6b35&height=100&section=footer&text=%F0%9F%9A%80+Build%2C+ship%2C+repeat&fontSize=18&fontColor=fff" />
 ```
 
 ---

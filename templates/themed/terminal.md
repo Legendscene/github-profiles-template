@@ -17,6 +17,9 @@ For devs who live in the terminal. Green-on-black, ASCII art, and command-line e
    ╚══════╝ ╚═════╝ ╚═╝       ╚═══╝  ╚═╝╚═╝
     </code>
   </pre>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=%3CLinus+Torvalds%2F%3E;%24+whoami+%E2%86%92+Linux+Creator" alt="Typing SVG" />
+  </h1>
   <h2>Linus Torvalds</h2>
   <pre>┌─[torvalds@github]─[~]
 └──╼ $ whoami
@@ -66,6 +69,35 @@ $ fortune
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Connections&color=00ff00&style=flat-square" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -84,6 +116,9 @@ $ fortune
    ╚══════╝ ╚═════╝ ╚═╝       ╚═══╝  ╚═╝╚═╝
     </code>
   </pre>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=%3Cyour-name%2F%3E;%24+whoami+%E2%86%92+your-tagline" alt="Typing SVG" />
+  </h1>
   <h2>your-name</h2>
   <pre>┌─[yourusername@github]─[~]
 └──╼ $ whoami
@@ -146,6 +181,35 @@ $ fortune
 <div align="center">
   <sub>💚 One fetch at a time</sub>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=matrix&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00ff00&height=80&section=footer" width="100%" />
+</p>
 ```
 
 ---

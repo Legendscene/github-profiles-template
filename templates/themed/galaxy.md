@@ -10,6 +10,9 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=200&section=header&text=%E2%9C%A6%20%20COSMIC%20DEVELOPER%20%20%E2%9C%A6&fontSize=35&fontColor=fff&animation=twinkling" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8C+Linus+Torvalds;Building+among+the+stars+%E2%9C%A8" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌌 Linus Torvalds</h1>
 <h3 align="center">Building among the stars ✨</h3>
 
@@ -92,6 +95,35 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Stars+Visited&color=6a0dad&style=flat-square" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=radical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -103,6 +135,9 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=200&section=header&text=%E2%9C%A6%20%20COSMIC%20DEVELOPER%20%20%E2%9C%A6&fontSize=35&fontColor=fff&animation=twinkling" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=BD93F9&center=true&vCenter=true&width=500&lines=%F0%9F%8C%8C+your-name;your-tagline+%E2%9C%A8" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌌 your-name</h1>
 <h3 align="center">your-tagline ✨</h3>
 
@@ -183,6 +218,35 @@ Deep purple nebulas, twinkling stars, and cosmic imagery. For developers who thi
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Stars+Visited&color=6a0dad&style=flat-square" />
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0221,100:6a0dad&height=80&section=footer" width="100%" />
 </p>
 ```
 

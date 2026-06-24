@@ -15,6 +15,14 @@ Sparkle, shimmer, and motion — animated SVGs, GIF effects, and dynamic element
 </h1>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=synthwave&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=ff6ec7&style=flat&labelColor=black" />
   <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=social" />
 </p>
@@ -64,6 +72,14 @@ Sparkle, shimmer, and motion — animated SVGs, GIF effects, and dynamic element
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=%E2%9C%A8%20Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=20&animation=twinkling" />
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Animation Performance Tips](https://yourblog.com/post1)
+- [CSS Animation Guide](https://yourblog.com/post2)
+- [Motion Design Principles](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 </div>
 
 ---
@@ -78,6 +94,10 @@ Sparkle, shimmer, and motion — animated SVGs, GIF effects, and dynamic element
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=FF6EC7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;Nice+to+meet+you!;Let's+build+something+awesome" alt="Typing SVG" />
 </h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=synthwave&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=ff6ec7&style=flat&labelColor=black" />
@@ -133,6 +153,10 @@ Sparkle, shimmer, and motion — animated SVGs, GIF effects, and dynamic element
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=synthwave&hide_border=true&bg_color=00000000" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=synthwave&hide_border=true&radius=10" width="95%" />
+</p>
+
 ---
 
 ### 🐍 Snake Animation
@@ -150,6 +174,14 @@ Sparkle, shimmer, and motion — animated SVGs, GIF effects, and dynamic element
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=%E2%9C%A8%20Thanks%20for%20stopping%20by!%20%E2%9C%A8&fontSize=20&animation=twinkling" />
 </div>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Animation Performance Tips](https://yourblog.com/post1)
+- [CSS Animation Guide](https://yourblog.com/post2)
+- [Motion Design Principles](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
 ```
 
 ---

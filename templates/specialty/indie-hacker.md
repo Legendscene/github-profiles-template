@@ -11,6 +11,10 @@ Solo founder — revenue, products, growth metrics, and building in public.
 ### 💰 torvalds
 **Indie Hacker • Building in Public • Solo Founder**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%92%B0+Indie+Hacker;Building+in+public;MRR+%3E+%24100k" alt="Typing SVG" />
+</h1>
+
 <a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://indiehackers.com/torvalds"><img src="https://img.shields.io/badge/Indie_Hackers-000?style=for-the-badge&logo=indie-hackers&logoColor=white" /></a>
@@ -45,6 +49,24 @@ Solo founder — revenue, products, growth metrics, and building in public.
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=default&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Hit $100k MRR](https://yourblog.com/post1)
+- [Building in Public Guide](https://yourblog.com/post2)
+- [Lessons from 3 Failed Products](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🛠️ Stack
@@ -69,6 +91,8 @@ Solo founder — revenue, products, growth metrics, and building in public.
 
 🚀 Build your own empire
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B6B&height=100&section=footer&text=%F0%9F%9A%80+Build+your+own+empire&fontSize=18&fontColor=fff" />
+
 </div>
 
 ---
@@ -78,6 +102,10 @@ Solo founder — revenue, products, growth metrics, and building in public.
 ```markdown
 <h1 align="center">💰 <your-name></h1>
 <h3 align="center">Indie Hacker • Building in Public • Solo Founder</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=%F0%9F%92%B0+Indie+Hacker;Building+in+public;MRR+%3E+%24<amount>" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -117,6 +145,30 @@ Solo founder — revenue, products, growth metrics, and building in public.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=default&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [How I Hit $100k MRR](https://yourblog.com/post1)
+- [Building in Public Guide](https://yourblog.com/post2)
+- [Lessons from 3 Failed Products](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🛠️ Stack
@@ -145,6 +197,8 @@ Solo founder — revenue, products, growth metrics, and building in public.
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Weekly+Visitors&color=FF6B6B&style=flat" />
   <p>🚀 Build your own empire</p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B6B&height=100&section=footer&text=%F0%9F%9A%80+Build+your+own+empire&fontSize=18&fontColor=fff" />
 ```
 
 ---

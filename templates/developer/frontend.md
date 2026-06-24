@@ -44,6 +44,26 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=radical&hide_border=true" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🎯 Skills
@@ -76,6 +96,22 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
 </table>
 
 ---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile%20Visitors&color=F75C7E&style=flat" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&text=%E2%80%9CDesign+is+not+just+how+it+looks%E2%80%94it's+how+it+works.%E2%80%9D&fontSize=16" />
@@ -126,6 +162,26 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true" />
 </p>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-dark&hide_border=true&radius=10" width="95%" />
+</div>
+
 ---
 
 ### 🎯 Skills
@@ -158,6 +214,22 @@ UI/UX focused profile — frameworks, design tools, and visual creativity. Featu
 </table>
 
 ---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Visitors&color=F75C7E&style=flat" />
+</div>
+
+<br/>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=80&section=footer&text=%E2%80%9CDesign+is+not+just+how+it+looks%E2%80%94it's+how+it+works.%E2%80%9D&fontSize=16" />

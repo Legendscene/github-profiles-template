@@ -19,6 +19,10 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
 ### 🦀 torvalds
 **Rustacean • Systems Programmer**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=DEA584&center=true&vCenter=true&width=500&lines=%F0%9F%A6%80+Rustacean;Safe+%E2%80%A2+Fast+%E2%80%A2+Systems;cargo+check+%F0%9F%A6%80" alt="Typing SVG" />
+</h1>
+
 <a href="https://crates.io/users/torvalds"><img src="https://img.shields.io/badge/crates.io-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://docs.rs/releases/search?query=torvalds"><img src="https://img.shields.io/badge/docs.rs-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 <a href="https://users.rust-lang.org/u/torvalds"><img src="https://img.shields.io/badge/Rust_Users-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
@@ -52,6 +56,24 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=dark&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Learning Rust in 2025](https://yourblog.com/post1)
+- [Systems Programming with Rust](https://yourblog.com/post2)
+- [Async Rust Best Practices](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <pre>
@@ -62,6 +84,8 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
 </pre>
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=DEA584&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=DEA584&height=100&section=footer&text=%F0%9F%A6%80+Ferris+approves&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -82,6 +106,10 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
 
 <h1 align="center">🦀 <your-name></h1>
 <h3 align="center">Rustacean • Systems Programmer</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=DEA584&center=true&vCenter=true&width=500&lines=%F0%9F%A6%80+Rustacean;Safe+%E2%80%A2+Fast+%E2%80%A2+Systems;cargo+check+%F0%9F%A6%80" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://crates.io/users/yourusername"><img src="https://img.shields.io/badge/crates.io-000000?style=for-the-badge&logo=rust&logoColor=white" /></a>
@@ -122,6 +150,30 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Learning Rust in 2025](https://yourblog.com/post1)
+- [Systems Programming with Rust](https://yourblog.com/post2)
+- [Async Rust Best Practices](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
@@ -135,6 +187,8 @@ Rust developer — Ferris, cargo, crates.io, and systems programming.
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=DEA584&style=flat" />
   </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=DEA584&height=100&section=footer&text=%F0%9F%A6%80+Ferris+approves&fontSize=18&fontColor=fff" />
 ```
 
 ---

@@ -11,6 +11,10 @@ Algorithm champion — Codeforces, LeetCode, AtCoder, and DSA mastery.
 ### ⚡ torvalds
 **Competitive Programmer • Algorithm Enthusiast • DSA**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FFB800&center=true&vCenter=true&width=500&lines=%E2%9A%A1+CP+Coder;Algorithms+%E2%80%A2+DSA+%E2%80%A2+Speed;const+int+INF+%3D+1e9" alt="Typing SVG" />
+</h1>
+
 <a href="https://codeforces.com/profile/torvalds"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://leetcode.com/torvalds"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://atcoder.jp/users/torvalds"><img src="https://img.shields.io/badge/AtCoder-000?style=for-the-badge&logo=atcoder&logoColor=white" /></a>
@@ -55,6 +59,24 @@ Best Rank: #1 (Global)
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=dark&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=dark&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Mastering Dynamic Programming](https://yourblog.com/post1)
+- [Graph Algorithms Explained](https://yourblog.com/post2)
+- [CP Strategy Guide](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🧠 Languages
@@ -70,6 +92,8 @@ Best Rank: #1 (Global)
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=FFB800&style=flat" />
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB800&height=100&section=footer&text=%E2%9A%A1+AC+%2F%2F+accepted&fontSize=18&fontColor=fff" />
+
 </div>
 
 ---
@@ -79,6 +103,10 @@ Best Rank: #1 (Global)
 ```markdown
 <h1 align="center">⚡ <your-name></h1>
 <h3 align="center">Competitive Programmer • Algorithm Enthusiast • DSA</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FFB800&center=true&vCenter=true&width=500&lines=%E2%9A%A1+CP+Coder;Algorithms+%E2%80%A2+DSA+%E2%80%A2+Speed;const+int+INF+%3D+1e9" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://codeforces.com/profile/yourusername"><img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
@@ -130,6 +158,30 @@ Best Rank: #<rank> (Global)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Mastering Dynamic Programming](https://yourblog.com/post1)
+- [Graph Algorithms Explained](https://yourblog.com/post2)
+- [CP Strategy Guide](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🧠 Languages
@@ -147,6 +199,8 @@ Best Rank: #<rank> (Global)
   <p>⌨️ const int INF = 1e9;</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=FFB800&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB800&height=100&section=footer&text=%E2%9A%A1+AC+%2F%2F+accepted&fontSize=18&fontColor=fff" />
 ```
 
 ---

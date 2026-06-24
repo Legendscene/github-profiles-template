@@ -6,6 +6,10 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
 
 ## 👀 Live Preview
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=34C759&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Linus+Torvalds;Mobile+App+Developer" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">📱 Linus Torvalds</h1>
 <h3 align="center">Mobile App Developer</h3>
 
@@ -42,6 +46,26 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
   <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=light&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=light&hide_border=true" width="48%" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=flat&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-light&hide_border=true&radius=10" width="95%" />
+</div>
 
 <hr/>
 
@@ -80,9 +104,23 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
   <img src="https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Linux 6.0 released](https://kernel.org)
+- [On kernel development workflow](https://lwn.net)
+- [The future of open source](https://opensource.org)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=34C759&style=flat" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34C759,100:f0f0f0&height=100&section=footer" />
+</div>
 
 > ⚡ **This is what your profile will look like** — just replace with your info below.
 
@@ -91,6 +129,10 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
 ## 📋 Ready-to-Use Code
 
 ```markdown
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=34C759&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+<your-name>;Mobile+App+Developer" alt="Typing SVG" />
+</h1>
+
 <h1 align="center">📱 <your-name></h1>
 <h3 align="center">Mobile App Developer</h3>
 
@@ -127,6 +169,26 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=light&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=light&hide_border=true" width="48%" />
 </p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=flat&no-frame=true&no-bg=true&column=7" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-light&hide_border=true&radius=10" width="95%" />
+</div>
 
 <hr/>
 
@@ -165,9 +227,23 @@ iOS, Android, cross-platform — building apps that fit in your pocket. Features
   <img src="https://img.shields.io/badge/Get_it_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
 </p>
 
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Post title 1](https://yourblog.com/post1)
+- [Post title 2](https://yourblog.com/post2)
+- [Post title 3](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<br/>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=34C759&style=flat" />
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:34C759,100:f0f0f0&height=100&section=footer" />
+</div>
 ```
 
 ---

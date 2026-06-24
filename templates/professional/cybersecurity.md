@@ -69,6 +69,32 @@ $ cat /etc/focus
 
 <p><img src="https://komarev.com/ghpvc/?username=torvalds&label=Access+Log&color=00ff00&style=flat" /></p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=chartreuse-dark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Zero Day Discovery Writeup](https://yourblog.com/post1)
+- [Bug Bounty Methodology Guide](https://yourblog.com/post2)
+- [Malware Analysis Deep Dive](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=%23+Stay+secure&fontSize=18&fontColor=00FF41" />
+
 </div>
 
 ---
@@ -124,6 +150,32 @@ $ cat /etc/focus
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=chartreuse-dark&hide_border=true&background=0a0000" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=chartreuse-dark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=chartreuse-dark&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Zero Day Discovery Writeup](https://yourblog.com/post1)
+- [Bug Bounty Methodology Guide](https://yourblog.com/post2)
+- [Malware Analysis Deep Dive](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 📜 Certifications
@@ -161,6 +213,8 @@ $ cat /etc/focus
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Access+Log&color=00ff00&style=flat" />
   </p>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=%23+Stay+secure&fontSize=18&fontColor=00FF41" />
 ```
 
 ---

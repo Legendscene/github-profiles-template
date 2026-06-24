@@ -20,6 +20,10 @@
 ### 🕹️ Linus Torvalds
 #### 8-bit Developer
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=8BAC0F&center=true&vCenter=true&width=500&lines=LEVEL+UP!;Player+1+has+entered;8-bit+mode+activated" alt="Typing SVG" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HP-100-8BAC0F?style=for-the-badge&logo=gameboy&logoColor=white" />
   <img src="https://img.shields.io/badge/LEVEL-99-FF69B4?style=for-the-badge&logo=gameboy&logoColor=white" />
@@ -47,6 +51,22 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 - [x] Beat the tutorial (Hello World)
 - [x] Defeated the first boss (First PR merged)
 - [x] Unlocked multiplayer (Team collaboration)
@@ -60,6 +80,16 @@
 </pre>
 <p><img src="https://komarev.com/ghpvc/?username=torvalds&label=Players&color=8BAC0F&style=flat" /></p>
 <sub>🕹️ Press START to continue</sub>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [8-bit Graphics Programming](https://yourblog.com/post1)
+- [Game Dev with C](https://yourblog.com/post2)
+- [Retro Gaming Aesthetic](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8BAC0F&height=100&section=footer&text=%F0%9F%8E%AE+Game+Over&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -79,6 +109,10 @@
 
 <h1 align="center">🕹️ <your-name></h1>
 <h3 align="center">8-bit Developer</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=500&color=8BAC0F&center=true&vCenter=true&width=500&lines=LEVEL+UP!;Player+1+has+entered;8-bit+mode+activated" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HP-100-8BAC0F?style=for-the-badge&logo=gameboy&logoColor=white" />
@@ -115,6 +149,32 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [8-bit Graphics Programming](https://yourblog.com/post1)
+- [Game Dev with C](https://yourblog.com/post2)
+- [Retro Gaming Aesthetic](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ### 🏆 Achievements
@@ -136,6 +196,8 @@
   <p><img src="https://komarev.com/ghpvc/?username=yourusername&label=Players&color=8BAC0F&style=flat" /></p>
   <sub>🕹️ Press START to continue</sub>
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=8BAC0F&height=100&section=footer&text=%F0%9F%8E%AE+Game+Over&fontSize=18&fontColor=fff" />
 ```
 
 ---

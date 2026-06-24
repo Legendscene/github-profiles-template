@@ -20,6 +20,10 @@ Python developer — PyPI packages, Django, FastAPI, and data science.
 ### 🐍 torvalds
 **Python Developer • PyPI Maintainer**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Pythonista;pip+install+everything;import+this+%23+Zen" alt="Typing SVG" />
+</h1>
+
 <a href="https://pypi.org/user/torvalds"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
 <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -54,11 +58,31 @@ Python developer — PyPI packages, Django, FastAPI, and data science.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=github_dark&hide_border=true" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Python Tips & Tricks](https://yourblog.com/post1)
+- [Building PyPI Packages](https://yourblog.com/post2)
+- [Django vs FastAPI](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 🐍 import this  # The Zen of Python
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=3776AB&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=100&section=footer&text=%F0%9F%90%8D+import+this&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -80,6 +104,10 @@ Python developer — PyPI packages, Django, FastAPI, and data science.
 
 <h1 align="center">🐍 <your-name></h1>
 <h3 align="center">Python Developer • PyPI Maintainer</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=3776AB&center=true&vCenter=true&width=500&lines=%F0%9F%90%8D+Pythonista;pip+install+everything;import+this+%23+Zen" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://pypi.org/user/yourusername"><img src="https://img.shields.io/badge/PyPI-3775A9?style=for-the-badge&logo=pypi&logoColor=white" /></a>
@@ -123,12 +151,38 @@ Python developer — PyPI packages, Django, FastAPI, and data science.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=algolia&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Python Tips & Tricks](https://yourblog.com/post1)
+- [Building PyPI Packages](https://yourblog.com/post2)
+- [Django vs FastAPI](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
   <p>🐍 import this  # The Zen of Python</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=3776AB&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3776AB&height=100&section=footer&text=%F0%9F%90%8D+import+this&fontSize=18&fontColor=fff" />
 ```
 
 ---

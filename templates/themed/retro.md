@@ -15,6 +15,9 @@ CRT scanlines, VHS vibes, Game Boy aesthetics, and floppy disk energy. Perfect f
     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ 
 </pre>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=EB9E4A&center=true&vCenter=true&width=500&lines=%3CLinus+Torvalds%2F%3E;Retro+coder+since+%2795" alt="Typing SVG" />
+  </h1>
 <h1 align="center">Linus Torvalds</h1>
 <h3 align="center">⌨️ Retro coder since '95</h3>
 
@@ -86,6 +89,39 @@ Go        │ 1.22    │ Gin
      ╚══════════════════════════╝
 </pre>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b4513,100:2f1b0e&height=80&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Retro+Visitors&color=8b4513&style=flat-square" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -102,6 +138,9 @@ Go        │ 1.22    │ Gin
     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ 
 </pre>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=EB9E4A&center=true&vCenter=true&width=500&lines=%3Cyour-name%2F%3E;Retro+coder+since+%2795" alt="Typing SVG" />
+  </h1>
 <h1 align="center">your-name</h1>
 <h3 align="center">⌨️ Retro coder since '95</h3>
 
@@ -172,6 +211,39 @@ Go        │ 1.22    │ Gin
      ║  ★ Thanks for visiting ★ ║
      ╚══════════════════════════╝
 </pre>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b4513,100:2f1b0e&height=80&section=footer" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Retro+Visitors&color=8b4513&style=flat-square" />
+</p>
 ```
 
 ---

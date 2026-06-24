@@ -10,6 +10,9 @@ Forest greens, earthy tones, and natural calm. For developers who find peace in 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,100:2d6a4f&height=200&section=header&text=%F0%9F%8C%B1%20NATURE%20DEV%20%F0%9F%8C%B1&fontSize=35&fontColor=95d5b2" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=42B883&center=true&vCenter=true&width=500&lines=%F0%9F%8C%BF+Linus+Torvalds;Growing+code+like+a+garden+%F0%9F%8C%B1" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌿 Linus Torvalds</h1>
 <h3 align="center">Growing code like a garden 🌱</h3>
 
@@ -82,6 +85,29 @@ Forest greens, earthy tones, and natural calm. For developers who find peace in 
   </p>
 </div>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,100:2d6a4f&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -93,6 +119,9 @@ Forest greens, earthy tones, and natural calm. For developers who find peace in 
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,100:2d6a4f&height=200&section=header&text=%F0%9F%8C%B1%20NATURE%20DEV%20%F0%9F%8C%B1&fontSize=35&fontColor=95d5b2" />
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=42B883&center=true&vCenter=true&width=500&lines=%F0%9F%8C%BF+your-name;your-tagline+%F0%9F%8C%B1" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌿 your-name</h1>
 <h3 align="center">your-tagline 🌱</h3>
 
@@ -164,7 +193,31 @@ Forest greens, earthy tones, and natural calm. For developers who find peace in 
     <img src="https://komarev.com/ghpvc/?username=yourusername&label=Garden+Visitors&color=2e7d32&style=flat" />
   </p>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1b4332,100:2d6a4f&height=80&section=footer" width="100%" />
+</p>
 ```
+
 
 ---
 

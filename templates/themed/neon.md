@@ -74,6 +74,23 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
   <img src="https://komarev.com/ghpvc/?username=torvalds&label=Neon+Visitors&color=ff00ff&style=flat-square" />
 </p>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00ff,100:00ffff&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -147,6 +164,23 @@ Vibrant pinks, electric blues, and purple glow effects. For developers who want 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Neon+Visitors&color=ff00ff&style=flat-square" />
+</p>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff00ff,100:00ffff&height=80&section=footer" width="100%" />
 </p>
 ```
 

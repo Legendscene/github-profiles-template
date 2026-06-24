@@ -11,6 +11,10 @@ Hackathon champion — wins, prizes, Devpost, and project highlights.
 ### 🏆 torvalds
 **Hackathon Enthusiast • 10x Hackathon Winner**
 
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+Hackathon+Winner;Building+in+24h+or+less;10x+hackathon+veteran" alt="Typing SVG" />
+</h1>
+
 <a href="https://devpost.com/torvalds"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
 <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -44,11 +48,31 @@ Hackathon champion — wins, prizes, Devpost, and project highlights.
 <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=gruvbox&hide_border=true" width="48%" />
 
+<img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Hackathon Strategy Guide](https://yourblog.com/post1)
+- [How to Win Any Hackathon](https://yourblog.com/post2)
+- [From Idea to MVP in 24h](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 ⚡ Building cool stuff in 24 hours or less
 
 <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=FF6B35&style=flat" />
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B35&height=100&section=footer&text=%F0%9F%9A%80+Ship+fast%2C+ship+often&fontSize=18&fontColor=fff" />
 
 </div>
 
@@ -59,6 +83,10 @@ Hackathon champion — wins, prizes, Devpost, and project highlights.
 ```markdown
 <h1 align="center">🏆 <your-name></h1>
 <h3 align="center">Hackathon Enthusiast • 10x Hackathon Winner</h3>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=500&color=FF6B35&center=true&vCenter=true&width=500&lines=%F0%9F%8F%86+Hackathon+Winner;Building+in+24h+or+less;10x+hackathon+veteran" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <a href="https://devpost.com/yourusername"><img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white" /></a>
@@ -97,12 +125,38 @@ Hackathon champion — wins, prizes, Devpost, and project highlights.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=gruvbox&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Hackathon Strategy Guide](https://yourblog.com/post1)
+- [How to Win Any Hackathon](https://yourblog.com/post2)
+- [From Idea to MVP in 24h](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
 ---
 
 <div align="center">
   <p>⚡ Building cool stuff in 24 hours or less</p>
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Visitors&color=FF6B35&style=flat" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=FF6B35&height=100&section=footer&text=%F0%9F%9A%80+Ship+fast%2C+ship+often&fontSize=18&fontColor=fff" />
 ```
 
 ---

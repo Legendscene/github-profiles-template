@@ -17,6 +17,9 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   </pre>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF71CE&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B4+Linus+Torvalds;%EF%BD%90%EF%BD%81%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E%EF%BD%81%EF%BD%94%EF%BD%85+%EF%BD%84%EF%BD%85%EF%BD%96%EF%BD%85%EF%BD%8C%EF%BD%8F%EF%BD%90%EF%BD%85%EF%BD%92" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌴 Linus Torvalds</h1>
 <h3 align="center">ｐａｓｓｉｏｎａｔｅ ｄｅｖｅｌｏｐｅｒ</h3>
 
@@ -78,6 +81,35 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   <sub>🌴 Ｓｔａｙ ａｅｓｔｈｅｔｉｃ 🌴</sub>
 </div>
 
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=radical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff71ce,100:b967ff&height=80&section=footer" width="100%" />
+</p>
+
 > ⚡ **What you see above is what you'll get** — just replace demo data below.
 
 ---
@@ -96,6 +128,9 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   </pre>
 </div>
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=500&color=FF71CE&center=true&vCenter=true&width=500&lines=%F0%9F%8C%B4+your-name;%EF%BD%90%EF%BD%81%EF%BD%93%EF%BD%93%EF%BD%89%EF%BD%8F%EF%BD%8E%EF%BD%81%EF%BD%94%EF%BD%85+%EF%BD%84%EF%BD%85%EF%BD%96%EF%BD%85%EF%BD%8C%EF%BD%8F%EF%BD%90%EF%BD%85%EF%BD%92" alt="Typing SVG" />
+  </h1>
 <h1 align="center">🌴 your-name</h1>
 <h3 align="center">ｐａｓｓｉｏｎａｔｅ ｄｅｖｅｌｏｐｅｒ</h3>
 
@@ -156,6 +191,35 @@ Pastel dreams, Greek busts, neon pinks, and 80s sunsets. For developers who code
   </p>
   <sub>🌴 Ｓｔａｙ ａｅｓｔｈｅｔｉｃ 🌴</sub>
 </div>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg" />
+</picture>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=radical&hide_border=true&radius=10" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ff71ce,100:b967ff&height=80&section=footer" width="100%" />
+</p>
 ```
 
 ---

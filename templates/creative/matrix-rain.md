@@ -54,6 +54,28 @@ current_project: Linux Kernel 6.x
 
 <p><img src="https://komarev.com/ghpvc/?username=torvalds&label=SYSTEM_ACCESS&color=00ff41&style=flat-square" /></p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=chartreuse-dark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/torvalds/torvalds/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Binary Exploitation Guide](https://yourblog.com/post1)
+- [Cyberpunk Dev Tools](https://yourblog.com/post2)
+- [Terminal Workflow Setup](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=Wake+up%2C+Neo...&fontSize=18&fontColor=00FF41" />
+
 <pre>
 ╔══════════════════════════╗
 ║  SYSTEM STATUS: ONLINE   ║
@@ -128,6 +150,28 @@ current_project: <project>
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=chartreuse-dark&no-frame=true&no-bg=true&column=4&margin-w=5&margin-h=5" width="98%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+### 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Binary Exploitation Guide](https://yourblog.com/post1)
+- [Cyberpunk Dev Tools](https://yourblog.com/post2)
+- [Terminal Workflow Setup](https://yourblog.com/post3)
+<!-- BLOG-POST-LIST:END -->
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:000000,100:00FF41&height=100&section=footer&text=Wake+up%2C+Neo...&fontSize=18&fontColor=00FF41" />
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=SYSTEM_ACCESS&color=00ff41&style=flat-square" />
