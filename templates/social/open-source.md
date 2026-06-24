@@ -2,9 +2,69 @@
 
 Open source contributor — contribution graphs, organizations, and community work.
 
-![Preview](https://img.shields.io/badge/Preview-Open_Source-2ea44f?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<div align="center">
+
+### 🌍 torvalds
+**Open Source Advocate • Contributor • Maintainer**
+
+<a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://dev.to/torvalds"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+
+<img src="https://img.shields.io/github/followers/torvalds?style=social" />
+<img src="https://img.shields.io/github/stars/torvalds?style=social" />
+
+---
+
+### 🤝 Organizations
+
+<a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/Linux_Foundation-000?style=for-the-badge&logo=linux&logoColor=white" /></a>
+<a href="https://github.com/git"><img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white" /></a>
+
+---
+
+### 📊 OSS Contributions
+
+<img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=github_dark&hide_border=true" width="48%" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github-compact&hide_border=true&radius=10" width="95%" />
+
+---
+
+### 🏆 Top Contributions
+
+| Repository | Stars | My Role |
+|------------|-------|---------|
+| [torvalds/linux](https://github.com/torvalds/linux) | ⭐ 200k+ | Creator & Maintainer |
+| [git/git](https://github.com/git/git) | ⭐ 55k+ | Creator |
+| [libgit2/libgit2](https://github.com/libgit2/libgit2) | ⭐ 10k+ | Contributor |
+
+---
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/torvalds/torvalds/output/github-contribution-grid-snake.svg" />
+</picture>
+
+---
+
+💖 Open source is powered by community
+
+<img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=2ea44f&style=flat" />
+
+</div>
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <h1 align="center">🌍 <your-name></h1>
@@ -74,20 +134,95 @@ Open source contributor — contribution graphs, organizations, and community wo
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `org1`, `org2`, etc. | Your organizations |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- Contribution-focused stats
-- Organization badges
-- Top contributions table
-- Snake contribution grid
-- GitHub dark theme stats
-- Follower/star social badges
-- Activity graph
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Display Name | `<your-name>` | Your name | `Linus Torvalds` |
+| GitHub Username | `yourusername` in all URLs | Your GitHub username | `torvalds` |
+| Twitter Handle | `twitter.com/yourusername` | Your Twitter handle | `torvalds` |
+| Dev.to Handle | `dev.to/yourusername` | Your Dev.to username | `torvalds` |
+
+### Step 2: Organizations
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Org 1 Name | `Organization_1` | Org name for badge | `Linux_Foundation` |
+| Org 1 URL | `github.com/org1` | Org GitHub URL | `github.com/torvalds` |
+| Org 1 Badge | `logo=github` | Org logo | `logo=linux` |
+| Org 2 Name | `Organization_2` | Org name for badge | `Git` |
+| Org 2 URL | `github.com/org2` | Org GitHub URL | `github.com/git` |
+| Org 3 Name | `Organization_3` | Org name for badge | `SPI` |
+
+### Step 3: Top Contributions Table
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Repo 1 | `facebook/react` | Repo full name | `torvalds/linux` |
+| Repo 1 URL | `https://github.com/facebook/react` | Repo URL | `https://github.com/torvalds/linux` |
+| Repo 1 Stars | `200k+` | Star count | `200k+` |
+| Repo 1 Role | `Contributor` | Your role | `Creator & Maintainer` |
+| Repo 2 | `vercel/next.js` | Repo full name | `git/git` |
+| Repo 2 Role | `Contributor` | Your role | `Creator` |
+
+### Step 4: Graph & Visuals
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Activity Graph Theme | `github-compact` | Graph theme | `github-dark` |
+| Snake Repo | `yourusername/yourusername/output/` | Your username path | `torvalds/torvalds/output/` |
+
+### Step 5: Setup Snake Action
+
+Add this to `.github/workflows/snake.yml`:
+
+```yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: yourusername
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+---
+
+## 💡 Pro Tips
+
+1. **Snake animation needs setup**: The contribution snake requires a GitHub Action to generate. Copy the YAML above into `.github/workflows/snake.yml` and push.
+
+2. **Activity graph v2**: Use `radius=15&height=350` params on the activity graph for rounded corners and taller display.
+
+3. **Private repos count**: Always set `count_private=true&include_all_commits=true` so private contributions appear in your stats.
+
+4. **Org membership**: Organization badges auto-update if you use `https://img.shields.io/badge/dynamic/json?url=...` with a dynamic endpoint. Otherwise update manually.
+
+5. **Sort repos by impact**: Put your most-starred contribution first in the table. Metrics drive credibility.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the code block above
+2. **Paste** into your `https://github.com/yourusername` repository's `README.md`
+3. **Replace** all placeholders using the table above
+4. **Push** — your profile updates instantly

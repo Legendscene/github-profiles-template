@@ -2,9 +2,83 @@
 
 Tiled card layout — everything in organized boxes for a clean portfolio look.
 
-![Preview](https://img.shields.io/badge/Preview-Grid_Style-2d333b?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<div align="center">
+
+### Linus Torvalds
+#### Creator of Linux & Git
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📊 GitHub Stats</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=default&hide_border=true&count_private=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔥 Streak</h3>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=default&hide_border=true" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💻 Top Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=default&hide_border=true" width="100%" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏆 Trophies</h3>
+      <img src="https://github-profile-trophy.vercel.app/?username=torvalds&theme=flat&no-frame=true&no-bg=true&column=4&margin-w=5" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td width="100%" colspan="2" valign="top">
+      <h3>📈 Activity</h3>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=github&hide_border=true&radius=8" width="100%" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>🛠️ Languages</h3>
+      <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,bash" />
+    </td>
+    <td align="center">
+      <h3>⚡ Frameworks</h3>
+      <img src="https://skillicons.dev/icons?i=react,next,node,django" />
+    </td>
+    <td align="center">
+      <h3>☁️ Cloud & Tools</h3>
+      <img src="https://skillicons.dev/icons?i=docker,aws,gcp,git,linux" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Visitors&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/torvalds?label=Followers&style=social" />
+</p>
+
+</div>
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <h1 align="center"><your-name></h1>
@@ -74,20 +148,90 @@ Tiled card layout — everything in organized boxes for a clean portfolio look.
 </p>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `your-tagline` | Short tagline |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- 2x2 grid card layout
-- Stats + Streak side by side
-- Languages + Trophies side by side
-- Activity graph spans full width
-- Skills organized by category
-- Clean default theme
-- Responsive table columns
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Your Name | `<your-name>` | Your full name | `Maya Johnson` |
+| GitHub Username | `yourusername` | Your GitHub handle | `mayajohnson` |
+| Tagline | `<your-tagline>` | Short tagline | `Full Stack Developer • Open Source Enthusiast` |
+
+### Step 2: Social Links
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Twitter URL | `https://twitter.com/yourusername` | Your Twitter | `https://twitter.com/mayajohnson` |
+| LinkedIn URL | `https://linkedin.com/in/yourusername` | Your LinkedIn | `https://linkedin.com/in/mayajohnson` |
+| GitHub URL | `https://github.com/yourusername` | Your GitHub | `https://github.com/mayajohnson` |
+
+### Step 3: Row 1 — Stats & Streak
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Stats API | `username=yourusername` (api, row 1) | Your user | `username=mayajohnson` |
+| Streak API | `user=yourusername` (streak, row 1) | Your user | `user=mayajohnson` |
+
+### Step 4: Row 2 — Languages & Trophies
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Top Langs API | `username=yourusername` (langs) | Your user | `username=mayajohnson` |
+| Trophy API | `username=yourusername` (trophy) | Your user | `username=mayajohnson` |
+| Trophy columns | `column=4` | column count | Adjust `column=3` for fewer |
+
+### Step 5: Row 3 — Activity Graph
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Graph API | `username=yourusername` (graph) | Your user | `username=mayajohnson` |
+| Graph Theme | `theme=github` | Any theme | `theme=github-light` / `theme=github-dark` |
+
+### Step 6: Skills Table
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Languages | `js,ts,py,rs,go,java` | Your languages | `py,js,ts,kotlin,swift` |
+| Frameworks | `react,next,node,django` | Your frameworks | `vue,nuxt,express,flask` |
+| Cloud & Tools | `docker,aws,gcp,git,linux` | Your tools | `k8s,aws,azure,git,nginx` |
+
+### Step 7: Visitor & Followers
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Visits API | `username=yourusername` (visitors) | Your user | `username=mayajohnson` |
+| Followers | `github/followers/yourusername` | Your user | `github/followers/mayajohnson` |
+
+---
+
+## 💡 Pro Tips
+
+1. **Swap table for div grid**: GitHub now supports some CSS in HTML. Use `<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px">` instead of tables for cleaner responsive behavior on mobile.
+
+2. **Card hover effects**: Add `style="transition: transform 0.3s; onmouseover="this.style.transform='scale(1.02)'" onmouseout="this.style.transform='scale(1)'"` inside your table cells for subtle interactivity.
+
+3. **Custom trophy theme**: Use `?theme=onedark` or `?theme=gruvbox` on the trophy URL to match your personal brand colors. There are 15+ themes available.
+
+4. **Activity graph color**: Change `theme=github` to `theme=github-compact` for a denser graph, or `theme=chartreuse-dark` for a neon green hacker look.
+
+5. **Skill icons size**: Add `&perline=6` to the skillicons.dev URL to control how many icons show per line. `&perline=8` makes them smaller and denser.
+
+6. **Column responsiveness**: Change `width="50%"` to `width="100%"` and remove the second `<td>` to stack cards vertically on mobile — use a `<style>` tag with `@media (max-width: 768px)`.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the code block
+2. **Create** `yourusername/yourusername` repo
+3. **Create** `README.md` with pasted content
+4. **Replace** all `yourusername`, `<your-name>`, `<your-tagline>`
+5. **Customize** skill icons in the URL query strings
+6. **Commit** and view your tiled profile
+
+<p align="center">
+  <a href="https://github.com/new?template_name=readme&template_owner=yourusername"><img src="https://img.shields.io/badge/Quick_Deploy-2d333b?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>

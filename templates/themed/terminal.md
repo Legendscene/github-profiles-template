@@ -1,15 +1,11 @@
-# Terminal Theme
+# Terminal Theme — Hacker-Green CLI Aesthetic
 
-Hacker-green terminal aesthetic with ASCII art. Perfect for Linux/CLI lovers.
+For devs who live in the terminal. Green-on-black, ASCII art, and command-line everything. Perfect for Linux lovers, Neovim warriors, and anyone who thinks `tput` is a lifestyle.
 
-![Preview](https://img.shields.io/badge/Preview-Terminal-00ff00?style=for-the-badge&labelColor=000)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
 
-<details>
-<summary>Click to copy</summary>
-
-```
 <div align="center">
   <pre>
     <code>
@@ -21,17 +17,77 @@ Hacker-green terminal aesthetic with ASCII art. Perfect for Linux/CLI lovers.
    ╚══════╝ ╚═════╝ ╚═╝       ╚═══╝  ╚═╝╚═╝
     </code>
   </pre>
+  <h2>Linus Torvalds</h2>
+  <pre>┌─[torvalds@github]─[~]
+└──╼ $ whoami
+Creator of Linux & Git</pre>
 </div>
-```
 
-Then continue with:
+<p align="center">
+  <a href="mailto:torvalds@linux.com"><img src="https://img.shields.io/badge/Email-8B89CC?style=flat-square&logo=protonmail&logoColor=white" /></a>
+  <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-00ff00?style=flat-square&logo=github&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-00ff00?style=flat-square&logo=linkedin&logoColor=black" /></a>
+</p>
+
+<pre>
+$ cat about.md
+
+Name:       Linus Torvalds
+Role:       Linux Kernel Maintainer
+Location:   Portland, OR
+Languages:  C, Assembly, Git
+Tools:      Neovim, tmux, gcc, make
+Interests:  OS dev, kernel hacking, version control
+Website:    https://torvalds-family.com
+</pre>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=chartreuse-dark&hide_border=true&background=0a0a0a" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a" />
+</p>
+
+<pre>
+$ uptime
+ 14:32:00 up 365 days, 2:15, 1 user, load average: 4.20, 4.20, 4.20
+
+$ df -h /repos
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/github     100G   42G   58G  42% /repos
+
+$ fortune
+"The best way to predict the future is to create it."
+</pre>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Connections&color=00ff00&style=flat-square" />
+</p>
+
+> ⚡ **What you see above is what you'll get** — just replace demo data below.
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <div align="center">
-  <h2><your-name></h2>
-  <pre>┌─[<your-username>@github]─[~]
+  <pre>
+    <code>
+   ███████╗ ██████╗ ███████╗██╗   ██╗██╗██╗
+   ╚══███╔╝██╔═══██╗██╔════╝██║   ██║██║██║
+     ███╔╝ ██║   ██║█████╗  ██║   ██║██║██║
+    ███╔╝  ██║   ██║██╔══╝  ╚██╗ ██╔╝██║██║
+   ███████╗╚██████╔╝██║      ╚████╔╝ ██║██║
+   ╚══════╝ ╚═════╝ ╚═╝       ╚═══╝  ╚═╝╚═╝
+    </code>
+  </pre>
+  <h2>your-name</h2>
+  <pre>┌─[yourusername@github]─[~]
 └──╼ $ whoami
-<your-tagline></pre>
+your-tagline</pre>
 </div>
 
 <p align="center">
@@ -45,9 +101,9 @@ Then continue with:
 ```bash
 $ cat about.md
 
-Name:       <your-name>
-Role:       <your-role>
-Location:   <your-location>
+Name:       your-name
+Role:       your-role
+Location:   your-location
 Languages:  Python, Rust, Go, TypeScript
 Tools:      Neovim, tmux, zsh, git
 Interests:  OS dev, CLI tools, automation
@@ -92,23 +148,79 @@ $ fortune
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `your@email.com` | Your email |
-| `your-tagline` | Short description |
-| `your-role` | Your job title |
-| `your-location` | Your location |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- ASCII art header
-- Terminal prompt style
-- `cat` / `whoami` / `uptime` commands
-- Chartreuse dark theme
-- Green-on-black hacker aesthetic
-- Fun terminal output sections
-</details>
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Your Name | `your-name` | Your full name | Linus Torvalds |
+| GitHub Username | `yourusername` | Your GitHub handle | torvalds |
+| Tagline | `your-tagline` | One-line bio | Creator of Linux & Git |
+| Job Role | `your-role` | Your title | Linux Kernel Maintainer |
+| Location | `your-location` | Your city | Portland, OR |
+| Email | `your@email.com` | Your email | torvalds@linux.com |
+| Website | `yourwebsite.com` | Your URL | torvalds-family.com |
+
+### Step 2: Languages & Tools
+
+| Field | What To Do | Example |
+|-------|-----------|---------|
+| Languages list | Edit the comma-separated list in `about.md` | C, Assembly, Rust, Python |
+| Tools list | Edit tools in `about.md` | Neovim, tmux, gcc, make, git |
+| Interests list | Edit interests in `about.md` | OS dev, kernel hacking, automation |
+
+### Step 3: Social Links
+
+| Platform | URL Template | Your URL |
+|----------|-------------|---------|
+| Email | `mailto:your@email.com` | mailto:torvalds@linux.com |
+| GitHub | `https://github.com/yourusername` | https://github.com/torvalds |
+| LinkedIn | `https://linkedin.com/in/yourusername` | https://linkedin.com/in/torvalds |
+
+### Step 4: GitHub Stats
+
+| Card | Replace | Example Value |
+|------|---------|-------------|
+| GitHub Stats | `?username=yourusername` | `?username=torvalds` |
+| Streak Stats | `?user=yourusername` | `?user=torvalds` |
+| Top Languages | `?username=yourusername` | `?username=torvalds` |
+| Profile Views | `?username=yourusername` | `?username=torvalds` |
+
+### Step 5: Fun Terminal Sections
+
+| Section | What To Change |
+|---------|---------------|
+| `$ uptime` | Keep or rewrite with your own uptime |
+| `$ df -h /repos` | Keep or rewrite for your repos |
+| `$ fortune` | Replace with your favorite quote |
+| ASCII Logo | The big "SEVIL" block — keep or replace with your own ASCII |
+
+---
+
+## 💡 Pro Tips
+
+1. **Use a monospace font** — The ASCII art and tables look best with a monospace font in your README. GitHub renders code blocks in monospace by default, so you're good.
+2. **Swap the ASCII logo** — Generate your own name ASCII at [patorjk.com](https://patorjk.com/software/taag/) using the "Bloody" or "ANSI Shadow" font to match this theme.
+3. **Make it interactive** — Add real terminal animations with a GIF capture of your actual terminal workflow for the header instead of static ASCII.
+4. **Color your badges** — Use `&color=00ff00` in shield.io URLs to tint badges to match the green theme. All social badges should use green tones.
+5. **Add a fetch command** — Include a `neofetch` or `fastfetch` style ASCII output of your actual system info for extra authenticity.
+6. **Hide private email** — Use `mailto:` with a disposable or masked email to avoid spam. ProtonMail or SimpleLogin work great.
+7. **Keep the joke sections** — Visitors love the `$ fortune`, `$ uptime`, and fake `df -h` outputs. It shows personality.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the entire "Ready-to-Use Code" block above
+2. **Go** to your GitHub profile repo (usually `yourusername/yourusername`)
+3. **Open** `README.md` and replace everything with what you copied
+4. **Find & Replace** all `yourusername` → `your-github-username`
+5. **Find & Replace** all `your-name` → `Your Name`
+6. **Find & Replace** all `your@email.com` → `your@email.com`
+7. **Replace** each field in the customization table
+8. **Commit** the changes — `git add . && git commit -m "Add terminal-themed profile"`
+9. **Push** — `git push origin main`
+10. **Done!** 🎉 Visit your profile to see it live

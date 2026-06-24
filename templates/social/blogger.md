@@ -1,10 +1,78 @@
 # Blogger / Writer
 
-Tech writer — Medium, Dev.to, Hashnode, and personal blog posts.
+Tech writer — Medium, Dev.to, Hashnode, and personal blog posts with writing stats.
 
-![Preview](https://img.shields.io/badge/Preview-Blogger-00ab6c?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<div align="center">
+
+### ✍️ torvalds
+**Technical Writer • Blogger • Storyteller**
+
+<a href="https://medium.com/@torvalds"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/torvalds"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
+<a href="https://hashnode.com/@torvalds"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://torvalds.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white" /></a>
+<a href="https://twitter.com/torvalds"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+
+---
+
+### 📚 Latest Articles
+
+- [The Linux Kernel: A Technical Overview](https://torvalds.com/article1) — Kernel
+- [Why Git Succeeds Where Others Failed](https://torvalds.com/article2) — Version Control
+- [C Programming for Systems Engineers](https://torvalds.com/article3) — Programming
+- [The Future of Open Source](https://torvalds.com/article4) — Community
+- [Memory Management in Modern OS](https://torvalds.com/article5) — Systems
+
+---
+
+### 📖 Writing Stats
+
+```
+📝 Total Articles:  200+
+👁️  Total Views:    2M+
+⭐ Total Claps:     150k+
+📅 Writing Since:  2005
+✏️  Avg Read Time:  12 min
+```
+
+---
+
+### 🏷️ Topics I Write About
+
+<img src="https://img.shields.io/badge/Linux-4285F4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/C_Programming-3776AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Git-F7DF1E?style=for-the-badge&logoColor=black" />
+<img src="https://img.shields.io/badge/Open_Source-239120?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Systems-FF6F00?style=for-the-badge" />
+
+---
+
+### 📊 Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=vue&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=vue&hide_border=true" width="48%" />
+
+---
+
+### ✍️ Latest from Dev.to
+
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@torvalds/0" alt="Recent Article" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=torvalds&label=Readers&color=00ab6c&style=flat" />
+
+📖 Write once, publish everywhere
+
+</div>
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <h1 align="center">✍️ <your-name></h1>
@@ -83,19 +151,75 @@ Tech writer — Medium, Dev.to, Hashnode, and personal blog posts.
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your username |
-| `yourblog.com` | Your blog URL |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- Multi-platform blogging links
-- Blog post list (auto-update with GitHub Actions)
-- Writing stats section
-- Topic badges
-- Medium recent article card
-- Vue green theme
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Display Name | `<your-name>` | Your name | `Linus Torvalds` |
+| Medium Handle | `medium.com/@yourusername` | Your Medium username | `torvalds` |
+| Dev.to Handle | `dev.to/yourusername` | Your Dev.to username | `torvalds` |
+| Hashnode Handle | `hashnode.com/@yourusername` | Your Hashnode username | `torvalds` |
+| Blog URL | `yourblog.com` | Your blog URL | `torvalds.com` |
+| Twitter Handle | `twitter.com/yourusername` | Your Twitter handle | `torvalds` |
+| GitHub Username | `username=yourusername` | Your GitHub username | `torvalds` |
+
+### Step 2: Writing Stats
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Total Articles | `50+` | Your article count | `200+` |
+| Total Views | `100k+` | Your view count | `2M+` |
+| Total Claps | `5k+` | Your clap/like count | `150k+` |
+| Writing Since | `2020` | When you started writing | `2005` |
+| Avg Read Time | `8 min` | Your average read time | `12 min` |
+
+### Step 3: Article Details
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Article 1 Title | `Article Title 1` | Blog post title | `The Linux Kernel` |
+| Article 1 URL | `yourblog.com/article1` | Full article URL | `torvalds.com/kernel` |
+| Article 1 Category | `Category` | Topic category | `Kernel` |
+| Medium Recent | `medium/@yourusername/0` | Your Medium feed ID | `torvalds` |
+
+### Step 4: Topic Badges
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Topic 1 | `Web_Development` | Your writing topic | `Linux` |
+| Topic 2 | `Python` | Another topic | `C Programming` |
+| Topic 3 | `JavaScript` | Another topic | `Git` |
+| Topic 4 | `DevOps` | Another topic | `Open Source` |
+| Topic 5 | `Career` | Another topic | `Systems` |
+| Topic 6 | `Open_Source` | Another topic | `Kernel` |
+
+### Step 5: Article List (Auto or Manual)
+
+Keep `<!-- BLOG-POST-LIST:START -->` and `<!-- BLOG-POST-LIST:END -->` for auto-update with [blog-post-workflow](https://github.com/marketplace/actions/blog-post-workflow). Replace manually for static content.
+
+---
+
+## 💡 Pro Tips
+
+1. **Auto-publish feed**: Use [blog-post-workflow GitHub Action](https://github.com/marketplace/actions/blog-post-workflow) to auto-update from RSS feeds of Medium, Dev.to, Hashnode.
+
+2. **Medium card**: The `github-readme-medium-recent-article` card only shows the latest post. Rotate it by appending `?index=1`, `?index=2`, etc.
+
+3. **Stats sell credibility**: Keep your writing stats updated monthly. Higher numbers = more trust with readers.
+
+4. **Cross-post strategy**: Link all your platforms so readers can follow you everywhere. Each platform has a different audience.
+
+5. **Category badges**: Use topic badges to immediately show your niche. This helps readers self-select whether to follow you.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the code block above
+2. **Paste** into your `https://github.com/yourusername` repository's `README.md`
+3. **Replace** all placeholders using the table above
+4. **Push** — your profile updates instantly

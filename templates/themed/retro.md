@@ -1,12 +1,11 @@
-# Retro Theme
+# Retro Theme — 80s/90s Nostalgia Developer
 
-80s/90s nostalgia — CRT scanlines, VHS vibes, and Game Boy aesthetics.
+CRT scanlines, VHS vibes, Game Boy aesthetics, and floppy disk energy. Perfect for retro computing enthusiasts, pixel artists, and anyone who misses the dial-up sound.
 
-![Preview](https://img.shields.io/badge/Preview-Retro-8b4513?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
 
-```markdown
 <pre align="center">
     ██████╗ ███████╗████████╗██████╗  ██████╗ 
     ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗
@@ -16,7 +15,7 @@
     ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ 
 </pre>
 
-<h1 align="center"><your-name></h1>
+<h1 align="center">Linus Torvalds</h1>
 <h3 align="center">⌨️ Retro coder since '95</h3>
 
 <p align="center">
@@ -33,7 +32,7 @@
 <pre align="center">
 ┌──────────────────────────────────┐
 │  💿 Now Playing:                  │
-│  ▸ <your-favorite>        03:42   │
+│  ▸ Smells Like Teen Spirit  03:42 │
 │  ══════════════════░░░░  ░░░░░░░  │
 │  [⏮]  [⏸]  [⏭]  [🔁]            │
 └──────────────────────────────────┘
@@ -44,8 +43,8 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=gruvbox&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -86,22 +85,175 @@ Go        │ 1.22    │ Gin
      ║  ★ Thanks for visiting ★ ║
      ╚══════════════════════════╝
 </pre>
+
+> ⚡ **What you see above is what you'll get** — just replace demo data below.
+
+---
+
+## 📋 Ready-to-Use Code
+
+```markdown
+<pre align="center">
+    ██████╗ ███████╗████████╗██████╗  ██████╗ 
+    ██╔══██╗██╔════╝╚══██╔══╝██╔══██╗██╔═══██╗
+    ██████╔╝█████╗     ██║   ██████╔╝██║   ██║
+    ██╔══██╗██╔══╝     ██║   ██╔══██╗██║   ██║
+    ██║  ██║███████╗   ██║   ██║  ██║╚██████╔╝
+    ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝ ╚═════╝ 
+</pre>
+
+<h1 align="center">your-name</h1>
+<h3 align="center">⌨️ Retro coder since '95</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game_Boy-8BAC0F?style=for-the-badge&logo=gameboy&logoColor=white" />
+  <img src="https://img.shields.io/badge/NES-8B0000?style=for-the-badge&logo=nintendo&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHS-000000?style=for-the-badge&logo=videotext&logoColor=white" />
+  <img src="https://img.shields.io/badge/Floppy_Disk-000080?style=for-the-badge&logo=floppy&logoColor=white" />
+</p>
+
+---
+
+### 📼 Now Playing
+
+<pre align="center">
+┌──────────────────────────────────┐
+│  💿 Now Playing:                  │
+│  ▸ your-favorite-song      03:42  │
+│  ══════════════════░░░░  ░░░░░░░  │
+│  [⏮]  [⏸]  [⏭]  [🔁]            │
+└──────────────────────────────────┘
+</pre>
+
+---
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=gruvbox&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 🕹️ Stack
+
+<pre>
+LANGUAGE  │ VERSION │ FRAMEWORK
+──────────┼─────────┼────────────
+Python    │ 3.x     │ Django     
+JavaScript│ ES2024  │ React      
+TypeScript│ 5.x     │ Next.js    
+Rust      │ 2024    │ Actix      
+Go        │ 1.22    │ Gin        
+</pre>
+
+---
+
+### 📟 Projects
+
+```
+📁 projects/
+├── 📂 your-project-1/    →  Short description
+├── 📂 your-project-2/    →  Short description
+├── 📂 your-project-3/    →  Short description
+└── 📂 your-project-4/    →  Short description
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `your-favorite` | Your favorite song |
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b4513,100:2f1b0e&height=3" width="80%" />
+</p>
 
-## ✨ Features
+<pre align="center">
+     ╔══════════════════════════╗
+     ║  Last seen on: Commodore ║
+     ║  ★ Thanks for visiting ★ ║
+     ╚══════════════════════════╝
+</pre>
+```
 
-- ASCII retro logo
-- Now Playing tape-deck UI
-- Programmer art aesthetic
-- ASCII file tree
-- Retro ASCII borders
-- Gruvbox color theme
-- Floppy/GameBoy/NES badges
+---
+
+## 🔧 Complete Customization Guide
+
+### Step 1: Basic Info
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Your Name | `your-name` | Your full name | Linus Torvalds |
+| GitHub Username | `yourusername` | Your GitHub handle | torvalds |
+| Subtitle Year | `'95` | Your retro coding start year | '95, '98, '05 |
+| Subtitle Text | `Retro coder` | Any retro title | Pixel dev, DOS coder |
+
+### Step 2: Now Playing Section
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Song Title | `your-favorite-song` | Your favorite song | Smells Like Teen Spirit |
+| Duration | `03:42` | Song length | 03:42 or 04:15 |
+| Progress Bar | `══════════════════░░░░` | Adjust visual progress | ════░░ (edit ascii) |
+
+### Step 3: Stack Table
+
+| Field | What To Do | Example |
+|-------|-----------|---------|
+| Language Column | Replace with your languages | C, Python, Rust |
+| Version Column | Replace with versions you use | 3.12, 1.75, 2024ed |
+| Framework Column | Replace with your frameworks | Django, React, Actix |
+| Add/Remove Rows | Add or delete table rows | Just match the format |
+
+### Step 4: Projects Section
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Project 1 | `your-project-1` | Your repo name | retro-website |
+| Project 2 | `your-project-2` | Your repo name | gameboy-emu |
+| Project 3 | `your-project-3` | Your repo name | dos-prompt |
+| Project 4 | `your-project-4` | Your repo name | pixel-art-gen |
+| Descriptions | After `→` | Short description | GB emulator in Rust |
+
+### Step 5: GitHub Stats
+
+| Card | Replace | Example Value |
+|------|---------|-------------|
+| GitHub Stats API | `?username=yourusername` | `?username=torvalds` |
+| Streak Stats | `?user=yourusername` | `?user=torvalds` |
+
+### Step 6: Badges
+
+| Badge | Search For | Optional Change |
+|-------|-----------|----------------|
+| Game Boy | `gameboy` | Keep or remove |
+| NES | `nintendo` | Keep or remove |
+| VHS | `videotext` | Keep or remove |
+| Floppy Disk | `floppy` | Keep or remove |
+
+---
+
+## 💡 Pro Tips
+
+1. **Generate your own RETRO logo** — Use [patorjk.com](https://patorjk.com/software/taag/) with the "ANSI Regular" or "Rectangles" font to turn your name into ASCII that matches the retro aesthetic.
+2. **Customize the "Now Playing" track** — Change the song to something genre-appropriate: 80s rock, chiptune, or vaporwave. Match the vibe to your theme. Extra points for actual song lyrics in the `fortune` section.
+3. **Swap the project tree** — The ASCII folder tree should list your actual repos. Use `tree` command output from your terminal for that authentic retro feel.
+4. **Change the divider color** — The capsule divider uses `color=0:8b4513,100:2f1b0e` (brown gradient). Swap hex codes to match any retro palette: `0:000080,100:000000` for Commodore blue.
+5. **Add a visitor counter with CRT style** — Keep the Komarev counter but style it with retro text badges. Use `&style=flat&color=8BAC0F` to match Game Boy green.
+6. **Use gruvbox everywhere** — The stats use `theme=gruvbox`, which is a retro warm theme. Stick with it for consistency. If you want an alternative, try `theme=onedark` for a slightly different retro feel.
+7. **Add a Boot Screen** — You can add a retro BIOS-style boot screen at the top using `<pre>` with memory check, CPU info, and disk boot sequence. It wows visitors.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the entire "Ready-to-Use Code" block above
+2. **Go** to your GitHub profile repo
+3. **Open** `README.md` and paste over everything
+4. **Replace** all `yourusername` → `your-github-handle`
+5. **Replace** `your-name` → `Your Name`
+6. **Replace** `your-favorite-song` → `Your Favorite Song`
+7. **Replace** each project name in the tree
+8. **Update** the stack table with your actual tools
+9. **Commit** — `git add README.md && git commit -m "Add retro profile"`
+10. **Push** — `git push origin main`
+11. **Done!** 🎉 Your retro profile is live

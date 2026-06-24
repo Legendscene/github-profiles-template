@@ -2,9 +2,61 @@
 
 Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 
-![Preview](https://img.shields.io/badge/Preview-Aurora-00ff88?style=for-the-badge&labelColor=1a0033)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:001a33,100:00ff88&height=200&section=header&text=%F0%9F%8C%8C%20AURORA%20DEV%20%F0%9F%8C%8C&fontSize=35&fontColor=c0c0ff&animation=fadeIn" />
+
+### 🌌 Linus Torvalds
+#### Developer under the northern lights ✨
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=nightowl&hide_border=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=nightowl&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=nightowl&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=nightowl&hide_border=true&radius=10" width="95%" />
+</p>
+
+```
+   /\         🌍 Location: Portland, OR
+  /  \        💼 Role: Creator of Linux
+ /    \       🌱 Learning: Rust for kernel
+/______\      ⭐ Fun: I make OSes for fun
+```
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00ff88,100:001a33&height=100&section=footer&text=%E2%9C%A8%20Keep%20chasing%20the%20lights%20%E2%9C%A8&fontSize=16" />
+<p><img src="https://komarev.com/ghpvc/?username=torvalds&label=Aurora+Visitors&color=00ff88&style=flat-square" /></p>
+
+</div>
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <div align="center">
@@ -74,21 +126,95 @@ Northern lights inspired — cyan to purple gradients, aurora borealis colors.
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `your-location` | Your location |
-| `your-role` | Your job title |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- Cyan/green/blue aurora colors
-- Night owl theme (dark blue)
-- Mountain ASCII art
-- Fade-in capsule animation
-- Activity graph (night owl)
-- Calm, serene design
-- Northern lights aesthetic
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Your Name | `<your-name>` | Your name | `Aurora Norheim` |
+| GitHub Username | `yourusername` | Your handle | `auroran` |
+| Subtitle | `Developer under the northern lights ✨` | Your subtitle | `Full Stack Dev chasing auroras ✨` |
+
+### Step 2: Social Links
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| GitHub URL | `https://github.com/yourusername` | Your GitHub | `https://github.com/auroran` |
+| LinkedIn URL | `https://linkedin.com/in/yourusername` | Your LinkedIn | `https://linkedin.com/in/auroran` |
+| Twitter URL | `https://twitter.com/yourusername` | Your Twitter | `https://twitter.com/auroran` |
+
+### Step 3: Aurora Stack
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Tech badges | Keep / swap / add | Your stack | Add `Swift`, `Kotlin`, `AWS` |
+| Remove techs | Delete badge lines | Unused tools | Remove K8s if not used |
+
+### Step 4: Stats
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Stats API | `username=yourusername` (api) | Your user | `username=auroran` |
+| Streak API | `user=yourusername` (streak) | Your user | `user=auroran` |
+| Top Langs | `username=yourusername` (langs) | Your user | `username=auroran` |
+| Activity graph | `username=yourusername` (graph) | Your user | `username=auroran` |
+
+### Step 5: About Me (Mountain ASCII)
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Location | `<your-location>` | Your location | `Tromsø, Norway` |
+| Role | `<your-role>` | Your job | `Senior Software Engineer` |
+| Learning | `<tech>` | What you're learning | `Rust, WebGPU` |
+| Fun Fact | `[fun fact]` | Your fact | `I code under the actual aurora` |
+
+### Step 6: Capsule Gradient
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Header gradient | `0:001a33,100:00ff88` | Dark blue → green | Adjust for more purple: `0:0a0033,100:ff00aa` |
+| Footer gradient | `0:00ff88,100:001a33` | Green → dark blue | Adjust to match header |
+| Header text | `AURORA+DEV` | Your header | `AURORA+CODER` |
+| Footer text | `Keep+chasing+the+lights` | Your message | `Follow+the+aurora` |
+
+### Step 7: Visitor Badge
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Visitor color | `color=00ff88` | Badge color | `00ff88` (aurora green) |
+| Visitor label | `Aurora+Visitors` | Custom label | `Northern+Views` |
+| Visitor user | `username=yourusername` | Your user | `username=auroran` |
+
+---
+
+## 💡 Pro Tips
+
+1. **Gradient customization**: The aurora effect comes from the gradient `0:001a33,100:00ff88` (deep navy → bright green). For a purple aurora, use `0:0a0033,100:cc00ff`. For a full spectrum aurora, use `0:001a33,50:00ff88,100:cc00ff` with three stops.
+
+2. **Night owl theme**: The `?theme=nightowl` gives deep blue stats cards with cyan/green accents — perfect for aurora. If you prefer more green, switch to `?theme=chartreuse-dark` but change the `bg_color` to `0a0033` for consistency.
+
+3. **Activity graph colors**: The night owl graph theme shows contribution waves in cyan/green/blue — it looks like an actual aurora borealis wave. Change `radius=10` to `radius=20` for more rounded corners on the graph.
+
+4. **Mountain ASCII**: Customize the mountain to look like your local landscape. Add snow caps with `/\` lines or stars above: `  *  \n   /\   `. The mountain should have 4 rows of increasing width (3, 5, 7, 9 characters).
+
+5. **Seasonal colors**: Aurora colors change with solar activity. Update your gradient twice a year: spring = green/purple (`0:001a33,100:cc00ff`), winter = blue/green (`0:000033,100:00ffff`). Keep the profile fresh.
+
+6. **Capsule animation**: The `animation=fadeIn` creates a gentle fade. For a more dramatic aurora appearance, use `animation=scaleIn` — the text grows from the center like light expanding. `animation=blinking` works well for a pulsating aurora effect.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the code block
+2. **Create** `yourusername/yourusername` repo
+3. **Create** `README.md` and paste
+4. **Replace** all `yourusername`, `<your-name>`, and placeholders
+5. **Customize** the mountain ASCII with your details
+6. **Commit** — let the northern lights guide your profile
+
+<p align="center">
+  <a href="https://github.com/new?template_name=readme&template_owner=yourusername"><img src="https://img.shields.io/badge/Quick_Deploy-00ff88?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>

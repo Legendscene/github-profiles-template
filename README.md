@@ -2,12 +2,7 @@
 
 <div align="center">
 
-![GitHub Profile Templates](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GitHub%20Profile%20Templates&fontSize=50&fontAlignY=35&animation=twinkling&desc=100%25%20Free%20•%20Ready-to-Use%20•%20Copy-Paste&descAlignY=55)
-
-[![Stars](https://img.shields.io/github/stars/yourusername/github-profile-templates?style=for-the-badge&logo=github&color=gold)](https://github.com/yourusername/github-profile-templates/stargazers)
-[![Forks](https://img.shields.io/github/forks/yourusername/github-profile-templates?style=for-the-badge&logo=git&color=blue)](https://github.com/yourusername/github-profile-templates/forks)
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=githubactions)](CONTRIBUTING.md)
+![GitHub Profile Templates](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=GitHub%20Profile%20Templates&fontSize=50&fontAlignY=35&animation=twinkling&desc=100%25%20Free%20%E2%80%A2%20Ready-to-Use%20%E2%80%A2%20Copy-Paste&descAlignY=55)
 
 **50+ stunning, ready-to-use GitHub profile README templates.**  
 Just **copy-paste** → replace `yourusername` → done! No build tools, no CSS.

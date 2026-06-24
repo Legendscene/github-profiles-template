@@ -1,10 +1,126 @@
 # Full Stack Developer
 
-The ultimate full-stack dev profile — frontend, backend, database, cloud, all in one.
+The ultimate full-stack dev profile — frontend, backend, database, and cloud all in one. Features a typing SVG header, expandable tech sections, stats, streak, activity graph, and pinned repo cards.
 
-![Preview](https://img.shields.io/badge/Preview-Full_Stack-6C63FF?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+JAMStack+%7C+Cloud;Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+</h1>
+
+<div align="center">
+  <img src="https://github.com/torvalds.png?size=200" width="150" style="border-radius:50%" />
+  <h2>Linus Torvalds</h2>
+  <p>Creator of Linux & Git</p>
+  <p>
+    <a href="https://torvalds.com"><img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/torvalds"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://github.com/torvalds"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  </p>
+</div>
+
+---
+
+### 🧰 Tech Stack
+
+<details open>
+  <summary><b>Frontend</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Backend</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  </p>
+</details>
+
+<details open>
+  <summary><b>Database & Cloud</b></summary>
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
+</details>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=torvalds&theme=tokyo-night&hide_border=true&radius=10" width="96%" />
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Linux Kernel</h3>
+      <div align="center">
+        <a href="https://github.com/torvalds/linux"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=linux&theme=tokyonight&hide_border=true" /></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Git</h3>
+      <div align="center">
+        <a href="https://github.com/torvalds/git"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=git&theme=tokyonight&hide_border=true" /></a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Subsurface</h3>
+      <div align="center">
+        <a href="https://github.com/torvalds/subsurface"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=subsurface&theme=tokyonight&hide_border=true" /></a>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Kernel Docs</h3>
+      <div align="center">
+        <a href="https://github.com/torvalds/kernel-docs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=torvalds&repo=kernel-docs&theme=tokyonight&hide_border=true" /></a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
+
+> ⚡ **This is what your profile will look like** — just replace with your info below.
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <h1 align="center">
@@ -118,21 +234,80 @@ The ultimate full-stack dev profile — frontend, backend, database, cloud, all 
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `your-tagline` | Short tagline |
-| `yourwebsite.com` | Your portfolio URL |
-| `project-alpha` etc | Your actual repos |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Information
+| What to Replace | Where It Appears | Replace With | Example |
+|----------------|-----------------|--------------|---------|
+| `<your-name>` | Header below avatar | Your full name | Sarah Chen |
+| `yourusername` | ALL URLs, stats, avatar, repos | Your GitHub username | sarahchen |
+| `<your-tagline>` | Below your name | Role/title | Full Stack Engineer |
+| `yourwebsite.com` | Portfolio badge | Your portfolio URL | https://sarahchen.dev |
 
-- Typing SVG header
-- Frontend/Backend/DB category sections
-- GitHub stats + top languages
-- Streak stats + activity graph
-- Pinned repo cards
-- Tokyonight dark theme
+### Step 2: Social Links
+Replace these badge URLs:
+- `https://linkedin.com/in/yourusername` → `https://linkedin.com/in/YOUR_LINKEDIN`
+- `https://github.com/yourusername` → `https://github.com/YOUR_USERNAME`
+- `https://yourwebsite.com` → Your portfolio URL
+
+### Step 3: Tech Stack Sections
+Each `<details>` block has a category. Customize:
+- **Frontend**: Replace React, Next.js, etc. with what you actually use
+- **Backend**: Replace Node.js, Express, etc. with your stack
+- **Database & Cloud**: Replace MongoDB, PostgreSQL, etc.
+- To remove a whole category, delete the entire `<details>...</details>` block
+- To add a new category (e.g. "Testing"), duplicate a `<details>` block
+
+Badge format: `![Label](https://img.shields.io/badge/Label-HEXCODE?style=for-the-badge&logo=logoname&logoColor=white)`
+
+### Step 4: Typing SVG Header
+Customize the typing animation text:
+- Change the semicolon-separated lines: `lines=Full+Stack+Developer;MERN+%7C+JAMStack+%7C+Cloud;Always+Building+%F0%9F%9A%80`
+- Use `https://www.urlencoder.org/` to URL-encode special characters
+- Change `color=6C63FF` to match your brand color
+
+### Step 5: Stats, Streak & Activity Graph
+Replace `yourusername` in ALL four URLs:
+- `api?username=yourusername` (GitHub stats)
+- `top-langs/?username=yourusername` (Languages)
+- `streak-stats.herokuapp.com/?user=yourusername` (Streak)
+- `activity-graph.vercel.app/graph?username=yourusername` (Activity)
+
+### Step 6: Featured Projects (Pinned Repo Cards)
+Replace `yourusername` and repo names in each card:
+- `repo=project-alpha` → `repo=YOUR_REPO_NAME`
+- `https://github.com/yourusername/project-alpha` → actual repo URL
+
+Update the project titles and add real descriptions.
+
+### Step 7: Avatar Image
+The `https://github.com/yourusername.png?size=200` URL automatically shows your GitHub avatar. Just replace `yourusername` and it works.
+
+---
+
+## 💡 Pro Tips
+
+1. **Expandable sections**: The `<details open>` makes sections visible by default. Change to `<details>` (remove `open`) to make them collapsed by default — cleaner look for viewers.
+2. **Custom themes**: Change `theme=tokyonight` to any theme from the repo: `radical`, `gruvbox`, `dracula`, `merko`, `algolia`. Each gives a different color vibe.
+3. **Pinned repo cards**: The `api/pin/` endpoint shows real repo stats (stars, forks, language). Make sure the repos exist — otherwise cards will show "Not Found."
+4. **Avatar border radius**: The `style="border-radius:50%"` makes a circle. Use `border-radius:20%` for rounded square or `border-radius:0` for square.
+5. **Activity graph width**: Uses `width="96%"` to be slightly narrower than the page. Adjust to `100%` for full width or `80%` for more centering.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. Copy everything inside the **"Ready-to-Use Code"** block above
+2. Go to your profile repo: `github.com/YOUR_USERNAME/YOUR_USERNAME`
+3. Open `README.md` and paste over everything
+4. Press **Ctrl+H** (or **Cmd+H** on Mac) → find `yourusername` → **Replace All** with your actual GitHub username
+5. Replace `<your-name>`, `<your-tagline>`, `yourwebsite.com`
+6. Customize each tech stack section to match your actual skills
+7. Update featured projects with your real repos
+8. Commit — your new profile is LIVE! 🎉
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=yourusername&label=Template+Views&color=6C63FF&style=flat-square" />

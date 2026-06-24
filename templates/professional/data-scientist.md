@@ -2,9 +2,56 @@
 
 Data nerd — Python, R, pandas, NumPy, Jupyter, and statistical analysis.
 
-![Preview](https://img.shields.io/badge/Preview-Data_Scientist-3776AB?style=for-the-badge)
+---
 
-## 📋 Copy this
+## 👀 Live Preview
+
+<div align="center">
+
+### 📊 Linus Torvalds
+#### Data Scientist | Analytics | ML
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-3776AB?style=for-the-badge&logo=firefox&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=city_lights&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=torvalds&layout=compact&theme=city_lights&hide_border=true" width="48%" />
+</p>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| Linux Kernel | Monolithic OS kernel | C, Assembly |
+| Git | Distributed VCS | C, Shell |
+| Subsurface | Dive logging | C++, Qt |
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=torvalds&label=Profile+Views&color=3776AB&style=flat-square" />
+  <p>📧 torvalds@kernel.org</p>
+</p>
+
+</div>
+
+---
+
+## 📋 Ready-to-Use Code
 
 ```markdown
 <h1 align="center">📊 <your-name></h1>
@@ -93,21 +140,89 @@ print(tech_df.sort_values('Proficiency', ascending=False))
 </div>
 ```
 
-## 🔧 Customization
+---
 
-| Variable | Replace with |
-|----------|-------------|
-| `your-name` | Your name |
-| `yourusername` | Your GitHub username |
-| `yourwebsite.com` | Your portfolio |
-| `your@email.com` | Your email |
+## 🔧 Complete Customization Guide
 
-## ✨ Features
+### Step 1: Basic Info
 
-- Data science tech badges
-- Kaggle integration
-- Python code block section
-- Project table
-- City lights theme (blue)
-- Latest reads section
-- R, Python, SQL focus
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Your Name | `<your-name>` | Your full name | `Maria Rodriguez` |
+| GitHub Username | `yourusername` | Your GitHub handle | `mariarod` |
+| Subtitle | `Data Scientist \| Analytics \| ML` | Your title | `Data Scientist \| NLP \| BI` |
+| Website URL | `https://yourwebsite.com` | Your portfolio | `https://mariarod.io` |
+| Email | `your@email.com` | Your email | `maria@mariarod.io` |
+
+### Step 2: Social Links
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| LinkedIn URL | `https://linkedin.com/in/yourusername` | Your LinkedIn | `https://linkedin.com/in/mariarod` |
+| Kaggle URL | `https://kaggle.com/yourusername` | Your Kaggle | `https://kaggle.com/mariarod` |
+| Medium URL | `https://medium.com/@yourusername` | Your Medium | `https://medium.com/@mariarod` |
+| Portfolio Badge Link | `https://yourwebsite.com` | Your site | `https://mariarod.io` |
+
+### Step 3: Projects Table
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Project 1 Name | `Project Name` | Your project | `Customer Churn Predictor` |
+| Project 1 URL | `https://github.com/yourusername/project` | Repo link | `https://github.com/mariarod/churn` |
+| Project 1 Description | `Brief description` | What it does | `XGBoost with 94% accuracy` |
+| Project 1 Tech | `Python, Pandas` | Stack | `Python, XGBoost, Flask` |
+| Project 2 Tech | `R, Shiny` | Stack | `R, Shiny, ggplot2` |
+| Project 3 Tech | `SQL, Tableau` | Stack | `SQL, Tableau, Python` |
+
+### Step 4: Python Code Block
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Languages/Dict | The tech_stack dict | Your actual proficiency | Adjust percentages |
+| Output Order | sort_values call | Your sort logic | Change column names |
+
+### Step 5: Latest Reads
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Read 1 | `[Paper/Book Title](link) — Author` | Your reading | `[Statistical Learning](...) — Hastie` |
+| Read 2 | `[Paper/Book Title](link) — Author` | Your reading | `[Deep Learning](...) — Goodfellow` |
+| Read 3 | `[Paper/Book Title](link) — Author` | Your reading | `[NLP with Python](...) — Bird` |
+
+### Step 6: Stats & Visitor Badge
+
+| Field | Search For | Replace With | Example |
+|-------|-----------|-------------|---------|
+| Stats API | `username=yourusername` (api) | Your user | `username=mariarod` |
+| Top Langs API | `username=yourusername` (langs) | Your user | `username=mariarod` |
+| Visitor Badge | `username=yourusername` (visitors) | Your user | `username=mariarod` |
+
+---
+
+## 💡 Pro Tips
+
+1. **Kaggle rankings**: Add your actual Kaggle rank as a badge: `<img src="https://img.shields.io/badge/Kaggle_Rank-1234-20BEFF?style=flat-square&logo=kaggle" />`. Import `https://www.kaggle.com/yourusername` scraper or hardcode your current rank — update monthly.
+
+2. **Publication list**: Instead of generic "Latest Reads", link to your Google Scholar: `<a href="https://scholar.google.com/citations?user=YOURID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" /></a>` — academics and hiring managers check citations.
+
+3. **Live data viz**: Embed a publicly hosted Observable notebook or Streamlit app using `<a href="https://your-app.streamlit.app"><img src="https://static.streamlit.io/badges/streamlit_badge_black_white.svg" /></a>`. Shows you can deploy, not just analyze.
+
+4. **Dataset contributions**: If you publish datasets on Kaggle, add a row: `<a href="https://kaggle.com/datasets/yourusername"><img src="https://img.shields.io/badge/Datasets-20BEFF?style=flat-square&logo=kaggle" /></a>` — shows you give back to the community.
+
+5. **Certifications**: Add a certification badge strip: `<img src="https://img.shields.io/badge/AWS_ML_Specialty-FF9900?style=flat-square&logo=amazonaws" />` — cloud ML certs are highly valued in industry.
+
+6. **Interactive notebook**: Use `<a href="https://nbviewer.org/github/yourusername/repo/blob/main/notebook.ipynb"><img src="https://img.shields.io/badge/View_Notebook-FF6F00?style=flat-square&logo=jupyter" /></a>` to link to renderable notebooks — shows your actual analysis work.
+
+---
+
+## 🚀 One-Click Deploy
+
+1. **Copy** the code block above
+2. **Create** a GitHub profile repo: `yourusername/yourusername`
+3. **Paste** into `README.md`
+4. **Search & replace** every `yourusername` and `<placeholder>` per the guide
+5. **Commit** to `main` — your profile updates instantly
+
+<p align="center">
+  <a href="https://github.com/new?template_name=readme&template_owner=yourusername"><img src="https://img.shields.io/badge/Quick_Deploy-3776AB?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
